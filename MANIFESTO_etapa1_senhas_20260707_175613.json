@@ -1,0 +1,63 @@
+{
+  "etapa": "etapa1_senhas",
+  "data": "2026-07-07 17:56:13",
+  "raiz": "C:\\Users\\luizc\\OneDrive\\\u00c1rea de Trabalho\\Engeradios\\vistoria.engeradios.com.br",
+  "backup": "C:\\Users\\luizc\\OneDrive\\\u00c1rea de Trabalho\\Engeradios\\vistoria.engeradios.com.br\\backups\\etapa1_senhas_20260707_175613",
+  "arquivos_backup": [
+    "index.php",
+    "config.php",
+    "admin/usuarios.php",
+    "admin/alterar_senha.php",
+    "admin/dashboard.php",
+    "supervisor/dashboard.php"
+  ],
+  "arquivos_gerados": [
+    "trocar_senha.php",
+    "esqueci_senha.php",
+    "redefinir_senha.php",
+    "admin/alterar_senha.php",
+    "database_senhas_etapa1.sql"
+  ],
+  "arquivos_patcheados": [
+    "index.php",
+    "admin/dashboard.php",
+    "supervisor/dashboard.php"
+  ],
+  "hash_antes": {
+    "index.php": "c74d930361ee8839d7073dc0da9f71b5b67789b94212eddf0d72ce9051d59ca1",
+    "config.php": "862cbec6a45e13b0f03c2c9bc4a320afce022f65ffdd20a133185059cb7f3f54",
+    "admin/usuarios.php": "47d2ff589ab010cf7b4c0d2199baf53fef943492436899ae1044abacaba896c7",
+    "admin/alterar_senha.php": "e8026f779cf21c015ca89087ef1bba2b653ac8a76fe39f412346dd3be619cec0",
+    "admin/dashboard.php": "bc1fc5c50796188cea4197aec1f454bd4ec7a2bbfa7755a0d5da85a250b76bf3",
+    "supervisor/dashboard.php": "f0d16110f88a69aad77334649fb1e8bbc7603839617fbf08a7ef06adc1869cd5",
+    "CONTEXTO_PROJETO.md": null,
+    "CHANGELOG.md": null,
+    "DECISOES_TECNICAS.md": null,
+    "PENDENCIAS.md": null
+  },
+  "hash_depois": {
+    "CHANGELOG.md": "cedd6aacd63e866f2f327c4a1564af5f288452c13ad5290a55e9c6f198700ea9",
+    "CONTEXTO_PROJETO.md": "860705bb33d7a623f5428876113fc1cfef1fdc3b3658618cbfec3b73a359576d",
+    "DECISOES_TECNICAS.md": "c15f88919629b3a94027c1b0e4f970a2c18feed8859fae2a8a4cfa01cae9a3ac",
+    "PENDENCIAS.md": "6bec6ee60e75047b3dcd791bc0b6656dc7335555a9f5d9f1c31df46590127e85",
+    "admin/alterar_senha.php": "c779555a7b1decdc8df0e1325b45a647b00cc0b21e73ae642de70fae8a2c9b99",
+    "admin/dashboard.php": "ba09cdaa4e2a51068766910157a1241df0fc36fb32e2425c7941ded33a4665f0",
+    "admin/usuarios.php": "47d2ff589ab010cf7b4c0d2199baf53fef943492436899ae1044abacaba896c7",
+    "config.php": "862cbec6a45e13b0f03c2c9bc4a320afce022f65ffdd20a133185059cb7f3f54",
+    "database_senhas_etapa1.sql": "baed1813e2ab2cccf167bd9ae0c51da338f644d540fc359245045961a776aa0b",
+    "esqueci_senha.php": "639310d8e0f19087a6e626c566cb971eee69daf57c7c40442d59c7249a4c0ab2",
+    "index.php": "a9be7bbb0b55ede9d8ae8e350b1757f7406e9669b405579dcc5c75ff66d036b3",
+    "redefinir_senha.php": "95e4d519216d8aab20e1964227f73be3b0c9f40cc8927adecc427d1abeb40e95",
+    "supervisor/dashboard.php": "719fc28240d078497010bedb96906a961f6585c840ac646578d700fce11d1bde",
+    "trocar_senha.php": "be69b64a7f9a31522503148907c4c4bf2bfb8ce3ca0e5f56f191aca2499242b3"
+  },
+  "validacao": {
+    "ascii_sem_asterisco": true,
+    "php_lint": [
+      "trocar_senha.php: sintaxe OK",
+      "esqueci_senha.php: sintaxe OK",
+      "redefinir_senha.php: sintaxe OK",
+      "admin/alterar_senha.php: sintaxe OK"
+    ]
+  }
+}
