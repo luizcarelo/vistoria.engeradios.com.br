@@ -1,0 +1,6723 @@
+{
+  "gerado_em": "2026-07-07 18:38:13",
+  "raiz": "C:\\Users\\luizc\\OneDrive\\\u00c1rea de Trabalho\\Engeradios\\vistoria.engeradios.com.br",
+  "total_arquivos": 254,
+  "total_texto": 226,
+  "total_binarios": 28,
+  "tamanho_total_bytes": 1424077,
+  "tamanho_total": "1.36 MB",
+  "por_extensao": {
+    ".css": {
+      "quantidade": 1,
+      "bytes": 1339,
+      "tamanho": "1.31 KB"
+    },
+    ".htaccess": {
+      "quantidade": 1,
+      "bytes": 2164,
+      "tamanho": "2.11 KB"
+    },
+    ".htm": {
+      "quantidade": 59,
+      "bytes": 148548,
+      "tamanho": "145.07 KB"
+    },
+    ".ini": {
+      "quantidade": 2,
+      "bytes": 1254,
+      "tamanho": "1.22 KB"
+    },
+    ".json": {
+      "quantidade": 2,
+      "bytes": 5791,
+      "tamanho": "5.66 KB"
+    },
+    ".map": {
+      "quantidade": 20,
+      "bytes": 91034,
+      "tamanho": "88.90 KB"
+    },
+    ".md": {
+      "quantidade": 26,
+      "bytes": 172126,
+      "tamanho": "168.09 KB"
+    },
+    ".php": {
+      "quantidade": 125,
+      "bytes": 849592,
+      "tamanho": "829.68 KB"
+    },
+    ".png": {
+      "quantidade": 2,
+      "bytes": 10420,
+      "tamanho": "10.18 KB"
+    },
+    ".py": {
+      "quantidade": 3,
+      "bytes": 42197,
+      "tamanho": "41.21 KB"
+    },
+    ".sql": {
+      "quantidade": 1,
+      "bytes": 455,
+      "tamanho": "455.00 B"
+    },
+    ".ttf": {
+      "quantidade": 1,
+      "bytes": 35576,
+      "tamanho": "34.74 KB"
+    },
+    ".txt": {
+      "quantidade": 6,
+      "bytes": 18673,
+      "tamanho": "18.24 KB"
+    },
+    ".z": {
+      "quantidade": 1,
+      "bytes": 15498,
+      "tamanho": "15.13 KB"
+    },
+    "sem_extensao": {
+      "quantidade": 4,
+      "bytes": 29410,
+      "tamanho": "28.72 KB"
+    }
+  },
+  "por_categoria": {
+    "login_sessao": [
+      "admin/adicionar_usuario.php",
+      "admin/alterar_senha.php",
+      "admin/clientes.php",
+      "admin/dashboard.php",
+      "admin/detalhes_vistoria_admin.php",
+      "admin/diagnostico_pdf.php",
+      "admin/editar_cliente.php",
+      "admin/editar_usuario.php",
+      "admin/excluir_cliente.php",
+      "admin/excluir_usuario.php",
+      "admin/excluir_vistoria.php",
+      "admin/gerar_pdf.php",
+      "admin/supervisores.php",
+      "admin/usuarios.php",
+      "admin/vistorias.php",
+      "aplicar_etapa1_senhas.py",
+      "config.php",
+      "database_senhas_etapa1.sql",
+      "esqueci_senha.php",
+      "index.php",
+      "lib/phpmailer/get_oauth_token.php",
+      "logout.php",
+      "mapear_sistema_vistoria.py",
+      "redefinir_senha.php",
+      "supervisor/consultar_vistorias.php",
+      "supervisor/consultar_vistorias_BACKUP.php",
+      "supervisor/consultar_vistorias_CORRIGIDO.php",
+      "supervisor/dashboard.php",
+      "supervisor/detalhes_vistoria.php",
+      "supervisor/nova_vistoria.php",
+      "supervisor/processar_vistoria.php",
+      "trocar_senha.php"
+    ],
+    "senhas": [
+      "admin/adicionar_usuario.php",
+      "admin/alterar_senha.php",
+      "admin/dashboard.php",
+      "admin/editar_usuario.php",
+      "admin/excluir_usuario.php",
+      "admin/supervisores.php",
+      "admin/usuarios.php",
+      "aplicar_etapa1_senhas.py",
+      "CHANGELOG.md",
+      "config.php",
+      "config_smtp.php",
+      "CONTEXTO_PROJETO.md",
+      "CORRECOES_FINAIS.md",
+      "corrigir_links_etapa1.py",
+      "CREDENCIAIS.md",
+      "database_senhas_etapa1.sql",
+      "DECISOES_TECNICAS.md",
+      "esqueci_senha.php",
+      "GESTAO_CLIENTES.md",
+      "GESTAO_USUARIOS.md",
+      "GUIA_CONFIGURACAO_SMTP.md",
+      "GUIA_RAPIDO.md",
+      "index.php",
+      "MANIFESTO_etapa1_senhas_20260707_175613.json",
+      "mapear_sistema_vistoria.py",
+      "PENDENCIAS.md",
+      "README.md",
+      "redefinir_senha.php",
+      "reset_senha.php",
+      "RESUMO_SMTP.md",
+      "supervisor/dashboard.php",
+      "trocar_senha.php"
+    ],
+    "banco_dados": [
+      "admin/adicionar_usuario.php",
+      "admin/alterar_senha.php",
+      "admin/clientes.php",
+      "admin/dashboard.php",
+      "admin/detalhes_vistoria_admin.php",
+      "admin/diagnostico_pdf.php",
+      "admin/editar_cliente.php",
+      "admin/editar_usuario.php",
+      "admin/excluir_cliente.php",
+      "admin/excluir_usuario.php",
+      "admin/excluir_vistoria.php",
+      "admin/gerar_pdf.php",
+      "admin/supervisores.php",
+      "admin/usuarios.php",
+      "admin/vistorias.php",
+      "aplicar_etapa1_senhas.py",
+      "config.php",
+      "CORRECAO_CONSULTA_VISTORIAS.md",
+      "CORRECOES_URGENTES.md",
+      "CREDENCIAIS.md",
+      "database_senhas_etapa1.sql",
+      "esqueci_senha.php",
+      "FUNCIONALIDADE_EXCLUSAO.md",
+      "index.php",
+      "lib/fpdf/changelog.htm",
+      "lib/fpdf/doc/aliasnbpages.htm",
+      "lib/fpdf/doc/footer.htm",
+      "lib/fpdf/doc/header.htm",
+      "lib/fpdf/doc/image.htm",
+      "lib/fpdf/FAQ.htm",
+      "lib/fpdf/fpdf.php",
+      "lib/fpdf/tutorial/tuto1.htm",
+      "lib/fpdf/tutorial/tuto2.htm",
+      "lib/fpdf/tutorial/tuto3.htm",
+      "lib/fpdf/tutorial/tuto6.htm",
+      "lib/fpdf/tutorial/tuto6.php",
+      "lib/phpmailer/get_oauth_token.php",
+      "lib/phpmailer/README.md",
+      "lib/phpmailer/src/PHPMailer.php",
+      "lib/phpmailer/src/SMTP.php",
+      "mapear_sistema_vistoria.py",
+      "README.md",
+      "redefinir_senha.php",
+      "reset_senha.php",
+      "SOLUCAO_ERRO_MEMORIA.md",
+      "supervisor/consultar_vistorias.php",
+      "supervisor/consultar_vistorias_BACKUP.php",
+      "supervisor/consultar_vistorias_CORRIGIDO.php",
+      "supervisor/dashboard.php",
+      "supervisor/detalhes_vistoria.php",
+      "supervisor/nova_vistoria.php",
+      "supervisor/processar_vistoria.php",
+      "teste_conexao.php",
+      "trocar_senha.php",
+      "VISUALIZACAO_COMPARTILHADA.md"
+    ],
+    "seguranca_risco": [
+      "admin/adicionar_usuario.php",
+      "admin/alterar_senha.php",
+      "admin/clientes.php",
+      "admin/detalhes_vistoria_admin.php",
+      "admin/diagnostico_pdf.php",
+      "admin/editar_cliente.php",
+      "admin/editar_usuario.php",
+      "admin/excluir_cliente.php",
+      "admin/excluir_usuario.php",
+      "admin/excluir_vistoria.php",
+      "admin/gerar_pdf.php",
+      "admin/supervisores.php",
+      "admin/usuarios.php",
+      "admin/vistorias.php",
+      "ALTERACOES.md",
+      "aplicar_etapa1_senhas.py",
+      "BUSCA_TEXTO.md",
+      "esqueci_senha.php",
+      "index.php",
+      "lib/phpmailer/get_oauth_token.php",
+      "lib/whatsapp.php",
+      "mapear_sistema_vistoria.py",
+      "redefinir_senha.php",
+      "reset_senha.php",
+      "supervisor/consultar_vistorias.php",
+      "supervisor/consultar_vistorias_BACKUP.php",
+      "supervisor/consultar_vistorias_CORRIGIDO.php",
+      "supervisor/detalhes_vistoria.php",
+      "supervisor/processar_vistoria.php",
+      "trocar_senha.php"
+    ],
+    "uploads": [
+      "admin/detalhes_vistoria_admin.php",
+      "admin/diagnostico_pdf.php",
+      "admin/excluir_vistoria.php",
+      "admin/gerar_pdf.php",
+      "admin/vistorias.php",
+      "ALTERACOES.md",
+      "BUSCA_TEXTO.md",
+      "config.php",
+      "CORRECAO_CONSULTA_VISTORIAS.md",
+      "CORRECOES_URGENTES.md",
+      "FUNCIONALIDADE_EXCLUSAO.md",
+      "GUIA_PERSONALIZACAO_PDF.md",
+      "GUIA_RAPIDO.md",
+      "mapear_sistema_vistoria.py",
+      "README.md",
+      "SOLUCAO_ERRO_MEMORIA.md",
+      "supervisor/consultar_vistorias.php",
+      "supervisor/consultar_vistorias_BACKUP.php",
+      "supervisor/consultar_vistorias_CORRIGIDO.php",
+      "supervisor/detalhes_vistoria.php",
+      "supervisor/nova_vistoria.php",
+      "supervisor/processar_vistoria.php",
+      "user.ini"
+    ],
+    "pdf": [
+      "admin/detalhes_vistoria_admin.php",
+      "admin/diagnostico_pdf.php",
+      "admin/gerar_pdf.php",
+      "admin/vistorias.php",
+      "ALTERACOES.md",
+      "GUIA_PERSONALIZACAO_PDF.md",
+      "lib/fpdf/changelog.htm",
+      "lib/fpdf/doc/__construct.htm",
+      "lib/fpdf/doc/acceptpagebreak.htm",
+      "lib/fpdf/doc/addfont.htm",
+      "lib/fpdf/doc/addlink.htm",
+      "lib/fpdf/doc/addpage.htm",
+      "lib/fpdf/doc/aliasnbpages.htm",
+      "lib/fpdf/doc/cell.htm",
+      "lib/fpdf/doc/close.htm",
+      "lib/fpdf/doc/error.htm",
+      "lib/fpdf/doc/footer.htm",
+      "lib/fpdf/doc/getpageheight.htm",
+      "lib/fpdf/doc/getpagewidth.htm",
+      "lib/fpdf/doc/getstringwidth.htm",
+      "lib/fpdf/doc/getx.htm",
+      "lib/fpdf/doc/gety.htm",
+      "lib/fpdf/doc/header.htm",
+      "lib/fpdf/doc/image.htm",
+      "lib/fpdf/doc/index.htm",
+      "lib/fpdf/doc/line.htm",
+      "lib/fpdf/doc/link.htm",
+      "lib/fpdf/doc/ln.htm",
+      "lib/fpdf/doc/multicell.htm",
+      "lib/fpdf/doc/output.htm",
+      "lib/fpdf/doc/pageno.htm",
+      "lib/fpdf/doc/rect.htm",
+      "lib/fpdf/doc/setauthor.htm",
+      "lib/fpdf/doc/setautopagebreak.htm",
+      "lib/fpdf/doc/setcompression.htm",
+      "lib/fpdf/doc/setcreator.htm",
+      "lib/fpdf/doc/setdisplaymode.htm",
+      "lib/fpdf/doc/setdrawcolor.htm",
+      "lib/fpdf/doc/setfillcolor.htm",
+      "lib/fpdf/doc/setfont.htm",
+      "lib/fpdf/doc/setfontsize.htm",
+      "lib/fpdf/doc/setkeywords.htm",
+      "lib/fpdf/doc/setleftmargin.htm",
+      "lib/fpdf/doc/setlinewidth.htm",
+      "lib/fpdf/doc/setlink.htm",
+      "lib/fpdf/doc/setmargins.htm",
+      "lib/fpdf/doc/setrightmargin.htm",
+      "lib/fpdf/doc/setsubject.htm",
+      "lib/fpdf/doc/settextcolor.htm",
+      "lib/fpdf/doc/settitle.htm",
+      "lib/fpdf/doc/settopmargin.htm",
+      "lib/fpdf/doc/setx.htm",
+      "lib/fpdf/doc/setxy.htm",
+      "lib/fpdf/doc/sety.htm",
+      "lib/fpdf/doc/text.htm",
+      "lib/fpdf/doc/write.htm",
+      "lib/fpdf/FAQ.htm",
+      "lib/fpdf/fpdf.php",
+      "lib/fpdf/install.txt",
+      "lib/fpdf/tutorial/index.htm",
+      "lib/fpdf/tutorial/tuto1.htm",
+      "lib/fpdf/tutorial/tuto1.php",
+      "lib/fpdf/tutorial/tuto2.htm",
+      "lib/fpdf/tutorial/tuto2.php",
+      "lib/fpdf/tutorial/tuto3.htm",
+      "lib/fpdf/tutorial/tuto3.php",
+      "lib/fpdf/tutorial/tuto4.htm",
+      "lib/fpdf/tutorial/tuto4.php",
+      "lib/fpdf/tutorial/tuto5.htm",
+      "lib/fpdf/tutorial/tuto5.php",
+      "lib/fpdf/tutorial/tuto6.htm",
+      "lib/fpdf/tutorial/tuto6.php",
+      "lib/fpdf/tutorial/tuto7.htm",
+      "lib/fpdf/tutorial/tuto7.php",
+      "lib/phpmailer/src/PHPMailer.php",
+      "lib/phpmailer/src/SMTP.php",
+      "mapear_sistema_vistoria.py",
+      "supervisor/processar_vistoria.php"
+    ],
+    "email": [
+      "ALTERACOES.md",
+      "aplicar_etapa1_senhas.py",
+      "config.php",
+      "config_smtp.php",
+      "CORRECOES_FINAIS.md",
+      "CREDENCIAIS.md",
+      "esqueci_senha.php",
+      "GUIA_CONFIGURACAO_SMTP.md",
+      "lib/phpmailer/composer.json",
+      "lib/phpmailer/get_oauth_token.php",
+      "lib/phpmailer/language/phpmailer.lang-af.php",
+      "lib/phpmailer/language/phpmailer.lang-ar.php",
+      "lib/phpmailer/language/phpmailer.lang-as.php",
+      "lib/phpmailer/language/phpmailer.lang-az.php",
+      "lib/phpmailer/language/phpmailer.lang-ba.php",
+      "lib/phpmailer/language/phpmailer.lang-be.php",
+      "lib/phpmailer/language/phpmailer.lang-bg.php",
+      "lib/phpmailer/language/phpmailer.lang-bn.php",
+      "lib/phpmailer/language/phpmailer.lang-ca.php",
+      "lib/phpmailer/language/phpmailer.lang-cs.php",
+      "lib/phpmailer/language/phpmailer.lang-da.php",
+      "lib/phpmailer/language/phpmailer.lang-de.php",
+      "lib/phpmailer/language/phpmailer.lang-el.php",
+      "lib/phpmailer/language/phpmailer.lang-eo.php",
+      "lib/phpmailer/language/phpmailer.lang-es.php",
+      "lib/phpmailer/language/phpmailer.lang-et.php",
+      "lib/phpmailer/language/phpmailer.lang-fa.php",
+      "lib/phpmailer/language/phpmailer.lang-fi.php",
+      "lib/phpmailer/language/phpmailer.lang-fo.php",
+      "lib/phpmailer/language/phpmailer.lang-fr.php",
+      "lib/phpmailer/language/phpmailer.lang-gl.php",
+      "lib/phpmailer/language/phpmailer.lang-he.php",
+      "lib/phpmailer/language/phpmailer.lang-hi.php",
+      "lib/phpmailer/language/phpmailer.lang-hr.php",
+      "lib/phpmailer/language/phpmailer.lang-hu.php",
+      "lib/phpmailer/language/phpmailer.lang-hy.php",
+      "lib/phpmailer/language/phpmailer.lang-id.php",
+      "lib/phpmailer/language/phpmailer.lang-it.php",
+      "lib/phpmailer/language/phpmailer.lang-ja.php",
+      "lib/phpmailer/language/phpmailer.lang-ka.php",
+      "lib/phpmailer/language/phpmailer.lang-ko.php",
+      "lib/phpmailer/language/phpmailer.lang-lt.php",
+      "lib/phpmailer/language/phpmailer.lang-lv.php",
+      "lib/phpmailer/language/phpmailer.lang-mg.php",
+      "lib/phpmailer/language/phpmailer.lang-mn.php",
+      "lib/phpmailer/language/phpmailer.lang-ms.php",
+      "lib/phpmailer/language/phpmailer.lang-nb.php",
+      "lib/phpmailer/language/phpmailer.lang-nl.php",
+      "lib/phpmailer/language/phpmailer.lang-pl.php",
+      "lib/phpmailer/language/phpmailer.lang-pt.php",
+      "lib/phpmailer/language/phpmailer.lang-pt_br.php",
+      "lib/phpmailer/language/phpmailer.lang-ro.php",
+      "lib/phpmailer/language/phpmailer.lang-ru.php",
+      "lib/phpmailer/language/phpmailer.lang-si.php",
+      "lib/phpmailer/language/phpmailer.lang-sk.php",
+      "lib/phpmailer/language/phpmailer.lang-sl.php",
+      "lib/phpmailer/language/phpmailer.lang-sr.php",
+      "lib/phpmailer/language/phpmailer.lang-sr_latn.php",
+      "lib/phpmailer/language/phpmailer.lang-sv.php",
+      "lib/phpmailer/language/phpmailer.lang-tl.php",
+      "lib/phpmailer/language/phpmailer.lang-tr.php",
+      "lib/phpmailer/language/phpmailer.lang-uk.php",
+      "lib/phpmailer/language/phpmailer.lang-vi.php",
+      "lib/phpmailer/language/phpmailer.lang-zh.php",
+      "lib/phpmailer/language/phpmailer.lang-zh_cn.php",
+      "lib/phpmailer/README.md",
+      "lib/phpmailer/SECURITY.md",
+      "lib/phpmailer/src/DSNConfigurator.php",
+      "lib/phpmailer/src/OAuthTokenProvider.php",
+      "lib/phpmailer/src/PHPMailer.php",
+      "lib/phpmailer/src/POP3.php",
+      "lib/phpmailer/src/SMTP.php",
+      "mapear_sistema_vistoria.py",
+      "README.md",
+      "RESUMO_SMTP.md",
+      "supervisor/processar_vistoria.php",
+      "teste/Mailer.php"
+    ],
+    "whatsapp": [
+      "config_whatsapp.php",
+      "GUIA_WHATSAPP.md",
+      "lib/whatsapp.php",
+      "mapear_sistema_vistoria.py",
+      "supervisor/processar_vistoria.php",
+      "WHATSAPP_RESUMO.md",
+      "WHATSAPP_SEM_DOCKER.md"
+    ]
+  },
+  "arquivos": [
+    {
+      "arquivo": ".htaccess",
+      "extensao": ".htaccess",
+      "tamanho_bytes": 2164,
+      "tamanho": "2.11 KB",
+      "sha256": "3edf5ec1d44928f9f40389dda343fa176a0132c763ed101e1e866275e384c0ab",
+      "texto": true,
+      "linhas": 60,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": ".user.ini",
+      "extensao": ".ini",
+      "tamanho_bytes": 611,
+      "tamanho": "611.00 B",
+      "sha256": "04cabfe62605abbe59ded6519b99ab6df26062a3052f06f4593b7760b8a91563",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "admin/adicionar_usuario.php",
+      "extensao": ".php",
+      "tamanho_bytes": 11087,
+      "tamanho": "10.83 KB",
+      "sha256": "2737aa098df9045c8767a7bcfa81218a32655a66f6234657287a8817b823d059",
+      "texto": true,
+      "linhas": 341,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "checkPasswordStrength"
+      ],
+      "includes": [
+        "require_once '",
+        "required minlength=\"",
+        "required>\r\n                    <option value=\"",
+        "required>\r\n                <small>O e-mail ser\u00e1 usado para fazer login no sistema</small>\r\n            </div>\r\n            \r\n            <div class=\"",
+        "required>\r\n            </div>\r\n            \r\n            <div class=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "senhas": [
+          "password_hash",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT "
+        ],
+        "seguranca_risco": [
+          "$_POST",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/alterar_senha.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3467,
+      "tamanho": "3.39 KB",
+      "sha256": "bdd224e44c0d457d4fc2c5f4502a5c21873859a60c1bc2ff11f183daca8c6f8c",
+      "texto": true,
+      "linhas": 87,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\n<button class=\"",
+        "required>\n<label>Confirmar nova senha</label>\n<input type=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin",
+          "usuario_id"
+        ],
+        "senhas": [
+          "password_hash",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/clientes.php",
+      "extensao": ".php",
+      "tamanho_bytes": 11990,
+      "tamanho": "11.71 KB",
+      "sha256": "3920c5208aab39f11f8658d8762a6af27c3fd52e40ff70db66951ac387092d07",
+      "texto": true,
+      "linhas": 399,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\r\n                    </div>\r\n                    <div class=\""
+      ],
+      "tabelas_sql": [
+        "clientes"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/dashboard.php",
+      "extensao": ".php",
+      "tamanho_bytes": 6827,
+      "tamanho": "6.67 KB",
+      "sha256": "4cbbc4d060af76b35aa41ee00482e821f3f17d840f6f8f4a6eae7079cc53d42a",
+      "texto": true,
+      "linhas": 232,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/detalhes_vistoria_admin.php",
+      "extensao": ".php",
+      "tamanho_bytes": 4706,
+      "tamanho": "4.60 KB",
+      "sha256": "6b39053fe33545118f7437ed5f2b12dd6cac99eed7cf9ee67fdfc052831a23e6",
+      "texto": true,
+      "linhas": 125,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "pdf": [
+          "gerar_pdf"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/diagnostico_pdf.php",
+      "extensao": ".php",
+      "tamanho_bytes": 12253,
+      "tamanho": "11.97 KB",
+      "sha256": "f5b0f3a9bb78e9b5fdca520b0e30f51e2d9897ff625385f9989023064cc47500",
+      "texto": true,
+      "linhas": 283,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "safeConvert"
+      ],
+      "includes": [
+        "require_once $fpdf_path;\r\n\r\nfunction safeConvert($text) {\r\n    if ($text === null || $text === '",
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "falhou",
+        "usuarios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos"
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/editar_cliente.php",
+      "extensao": ".php",
+      "tamanho_bytes": 9141,
+      "tamanho": "8.93 KB",
+      "sha256": "2fe5693807ba8d75f69be722990165226124946ec512f1a4f7f2b19728be02c1",
+      "texto": true,
+      "linhas": 307,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\r\n            </div>\r\n            \r\n            <div class=\""
+      ],
+      "tabelas_sql": [
+        "clientes"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/editar_usuario.php",
+      "extensao": ".php",
+      "tamanho_bytes": 9495,
+      "tamanho": "9.27 KB",
+      "sha256": "7100307626f6828f96e05eeb4ea43985cfc28a2e1c04eb9220e0e0c35c923b6d",
+      "texto": true,
+      "linhas": 310,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\r\n                    <option value=\"",
+        "required>\r\n                <small>O e-mail ser\u00e1 usado para fazer login no sistema</small>\r\n            </div>\r\n            \r\n            <div class=\"",
+        "required>\r\n            </div>\r\n            \r\n            <div class=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin",
+          "usuario_id"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/excluir_cliente.php",
+      "extensao": ".php",
+      "tamanho_bytes": 9645,
+      "tamanho": "9.42 KB",
+      "sha256": "afab8bc811fde7bb447e1804b491141c3b0940ae93de87834e32521890384043",
+      "texto": true,
+      "linhas": 321,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE ",
+          "DELETE "
+        ],
+        "seguranca_risco": [
+          "$_GET"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/excluir_usuario.php",
+      "extensao": ".php",
+      "tamanho_bytes": 10097,
+      "tamanho": "9.86 KB",
+      "sha256": "edd7d9e457eedc3b2c5669e551f2f82935d32979077660e34eaa960252650128",
+      "texto": true,
+      "linhas": 341,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "usuarios",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin",
+          "usuario_id"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE ",
+          "DELETE "
+        ],
+        "seguranca_risco": [
+          "$_GET"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/excluir_vistoria.php",
+      "extensao": ".php",
+      "tamanho_bytes": 9701,
+      "tamanho": "9.47 KB",
+      "sha256": "a88a3da345dec004a3e412d308768f07b352681c14cbf8737900ac37b1374af4",
+      "texto": true,
+      "linhas": 320,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "DELETE "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "seguranca_risco": [
+          "$_GET"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/gerar_pdf.php",
+      "extensao": ".php",
+      "tamanho_bytes": 16169,
+      "tamanho": "15.79 KB",
+      "sha256": "9b5caf39487d556180f16af15d58ce87f0406b54e87d7e5490a40f0379281eed",
+      "texto": true,
+      "linhas": 476,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "AddSafeImage",
+        "ContentBox",
+        "Footer",
+        "Header",
+        "InfoField",
+        "Section",
+        "__construct",
+        "safeConvert",
+        "validarImagem"
+      ],
+      "includes": [
+        "require_once '",
+        "require_once __DIR__ . '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "para",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/supervisores.php",
+      "extensao": ".php",
+      "tamanho_bytes": 10969,
+      "tamanho": "10.71 KB",
+      "sha256": "aff6f3923a5c54c8f08f3b521981845ea62dcc7fa236039bdc00c75f6275229f",
+      "texto": true,
+      "linhas": 359,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required minlength=\"",
+        "required>\r\n                    </div>\r\n                    <div class=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "senhas": [
+          "password_hash",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/usuarios.php",
+      "extensao": ".php",
+      "tamanho_bytes": 14811,
+      "tamanho": "14.46 KB",
+      "sha256": "47d2ff589ab010cf7b4c0d2199baf53fef943492436899ae1044abacaba896c7",
+      "texto": true,
+      "linhas": 470,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "usuarios",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "DELETE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "admin/vistorias.php",
+      "extensao": ".php",
+      "tamanho_bytes": 24542,
+      "tamanho": "23.97 KB",
+      "sha256": "fef7cc07a4c9938cb6cdc3b73e8f7313897bbf9f97bb15af6adb311421d5ea06",
+      "texto": true,
+      "linhas": 680,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "fecharModal",
+        "formatDate",
+        "setEstaSemana",
+        "setEsteMes",
+        "setHoje",
+        "setMesPassado",
+        "setOntem",
+        "setUltimos7Dias",
+        "verDetalhes"
+      ],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarAdmin"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "pdf": [
+          "gerar_pdf"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "ALTERACOES.md",
+      "extensao": ".md",
+      "tamanho_bytes": 8201,
+      "tamanho": "8.01 KB",
+      "sha256": "60e633510aa73e1bdc3555b394a3f579ca663cc1bfa52e04095bc87149ba3778",
+      "texto": true,
+      "linhas": 279,
+      "categorias": [
+        "uploads",
+        "email",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "uploads": [
+          "fotos"
+        ],
+        "email": [
+          "EMAIL_DESTINO"
+        ],
+        "pdf": [
+          "FPDF",
+          "gerar_pdf"
+        ],
+        "seguranca_risco": [
+          "$_POST"
+        ]
+      }
+    },
+    {
+      "arquivo": "aplicar_etapa1_senhas.py",
+      "extensao": ".py",
+      "tamanho_bytes": 28373,
+      "tamanho": "27.71 KB",
+      "sha256": "5c77b5a89d63ed1b2312603e2979590e936c464a7f5ab8efe8ddf8b8a6d5794b",
+      "texto": true,
+      "linhas": 697,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "email",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "login_sessao": [
+          "session_start",
+          "verificarLogin",
+          "verificarAdmin",
+          "usuario_id"
+        ],
+        "senhas": [
+          "password_hash",
+          "password_verify",
+          "senha",
+          "recuperacao_senha",
+          "token_hash"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT ",
+          "UPDATE ",
+          "CREATE TABLE"
+        ],
+        "email": [
+          "mail("
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "BUSCA_TEXTO.md",
+      "extensao": ".md",
+      "tamanho_bytes": 10975,
+      "tamanho": "10.72 KB",
+      "sha256": "53253adc9f77ce3e0e60748ff0558a03200725ea482b1435458a06491be70089",
+      "texto": true,
+      "linhas": 486,
+      "categorias": [
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "uploads": [
+          "fotos"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "CHANGELOG.md",
+      "extensao": ".md",
+      "tamanho_bytes": 525,
+      "tamanho": "525.00 B",
+      "sha256": "cedd6aacd63e866f2f327c4a1564af5f288452c13ad5290a55e9c6f198700ea9",
+      "texto": true,
+      "linhas": 14,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha",
+          "recuperacao_senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "config.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3162,
+      "tamanho": "3.09 KB",
+      "sha256": "862cbec6a45e13b0f03c2c9bc4a320afce022f65ffdd20a133185059cb7f3f54",
+      "texto": true,
+      "linhas": 85,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "uploads",
+        "email"
+      ],
+      "funcoes_php": [
+        "getDBConnection",
+        "verificarAdmin",
+        "verificarLogin"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "login_sessao": [
+          "session_start",
+          "verificarLogin",
+          "verificarAdmin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "mysqli",
+          "getDBConnection"
+        ],
+        "uploads": [
+          "UPLOAD_DIR",
+          "fotos",
+          "audios"
+        ],
+        "email": [
+          "EMAIL_DESTINO",
+          "EMAIL_REMETENTE"
+        ]
+      }
+    },
+    {
+      "arquivo": "config_smtp.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3121,
+      "tamanho": "3.05 KB",
+      "sha256": "83857646c6e11ece08775b48444ae91cd4e4d7596c77d050f766bc0cb9c29ad1",
+      "texto": true,
+      "linhas": 105,
+      "categorias": [
+        "senhas",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "config_smtp"
+        ]
+      }
+    },
+    {
+      "arquivo": "config_whatsapp.php",
+      "extensao": ".php",
+      "tamanho_bytes": 7668,
+      "tamanho": "7.49 KB",
+      "sha256": "45c5e7e333d7efcd404ca00284d5f00a56404b0bf3b3e5a55a7e04d55fe1b1b4",
+      "texto": true,
+      "linhas": 206,
+      "categorias": [
+        "whatsapp"
+      ],
+      "funcoes_php": [
+        "whatsappLog",
+        "whatsappValidateConfig"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "ZAPI",
+          "Twilio",
+          "Hocketzap"
+        ]
+      }
+    },
+    {
+      "arquivo": "CONTEXTO_PROJETO.md",
+      "extensao": ".md",
+      "tamanho_bytes": 532,
+      "tamanho": "532.00 B",
+      "sha256": "860705bb33d7a623f5428876113fc1cfef1fdc3b3658618cbfec3b73a359576d",
+      "texto": true,
+      "linhas": 14,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha",
+          "recuperacao_senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "CORRECAO_CONSULTA_VISTORIAS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 4517,
+      "tamanho": "4.41 KB",
+      "sha256": "86b1e7674b7978a767a0b048c5fbacf2668cedfe46966f15d497e638ba8fd173",
+      "texto": true,
+      "linhas": 166,
+      "categorias": [
+        "banco_dados",
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ]
+      }
+    },
+    {
+      "arquivo": "CORRECOES_FINAIS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 5529,
+      "tamanho": "5.40 KB",
+      "sha256": "0b46535db61af80c159fbbddb9c1d59b4b47e4f056186ed32662612fa432f7ac",
+      "texto": true,
+      "linhas": 224,
+      "categorias": [
+        "senhas",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "config_smtp"
+        ]
+      }
+    },
+    {
+      "arquivo": "CORRECOES_URGENTES.md",
+      "extensao": ".md",
+      "tamanho_bytes": 5724,
+      "tamanho": "5.59 KB",
+      "sha256": "f67ce93df3359e595e959778828a5895a45bc08a63f9ceb7854cb618def65a1a",
+      "texto": true,
+      "linhas": 240,
+      "categorias": [
+        "banco_dados",
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ]
+      }
+    },
+    {
+      "arquivo": "corrigir_links_etapa1.py",
+      "extensao": ".py",
+      "tamanho_bytes": 1488,
+      "tamanho": "1.45 KB",
+      "sha256": "0a2f1c20ad9d4b7e71ed6344b1bfb375cbfcf6553c63a5653f8df0beedee0269",
+      "texto": true,
+      "linhas": 46,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "CREDENCIAIS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 2783,
+      "tamanho": "2.72 KB",
+      "sha256": "9c28b94292171c1ead7c8fb42704f6edd7b12155ae4fc760ab2a1ce53954c8e9",
+      "texto": true,
+      "linhas": 102,
+      "categorias": [
+        "senhas",
+        "banco_dados",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "password_hash",
+          "senha"
+        ],
+        "banco_dados": [
+          "UPDATE "
+        ],
+        "email": [
+          "EMAIL_DESTINO",
+          "EMAIL_REMETENTE"
+        ]
+      }
+    },
+    {
+      "arquivo": "database_senhas_etapa1.sql",
+      "extensao": ".sql",
+      "tamanho_bytes": 455,
+      "tamanho": "455.00 B",
+      "sha256": "baed1813e2ab2cccf167bd9ae0c51da338f644d540fc359245045961a776aa0b",
+      "texto": true,
+      "linhas": 13,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [
+        "recuperacao_senha"
+      ],
+      "achados": {
+        "login_sessao": [
+          "usuario_id"
+        ],
+        "senhas": [
+          "senha",
+          "recuperacao_senha",
+          "token_hash"
+        ],
+        "banco_dados": [
+          "CREATE TABLE"
+        ]
+      }
+    },
+    {
+      "arquivo": "DECISOES_TECNICAS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 533,
+      "tamanho": "533.00 B",
+      "sha256": "c15f88919629b3a94027c1b0e4f970a2c18feed8859fae2a8a4cfa01cae9a3ac",
+      "texto": true,
+      "linhas": 14,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha",
+          "recuperacao_senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "esqueci_senha.php",
+      "extensao": ".php",
+      "tamanho_bytes": 4010,
+      "tamanho": "3.92 KB",
+      "sha256": "5eca7f93c85783a82bace4d69c947bf5b2ade461d1b9c8b186286ac937a81ec1",
+      "texto": true,
+      "linhas": 80,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "email",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "baseUrlSistema",
+        "garantirTabelaRecuperacao"
+      ],
+      "includes": [
+        "require_once '",
+        "required>\n<button class=\""
+      ],
+      "tabelas_sql": [
+        "recuperacao_senha",
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "usuario_id"
+        ],
+        "senhas": [
+          "senha",
+          "recuperacao_senha",
+          "token_hash"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT ",
+          "CREATE TABLE"
+        ],
+        "email": [
+          "mail("
+        ],
+        "seguranca_risco": [
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "FILTROS_DATA.md",
+      "extensao": ".md",
+      "tamanho_bytes": 7673,
+      "tamanho": "7.49 KB",
+      "sha256": "559d5474532282bc6d6ef248d5610dfe2ce2a69e88842ec2956f369ce3db8313",
+      "texto": true,
+      "linhas": 316,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "FUNCIONALIDADE_EXCLUSAO.md",
+      "extensao": ".md",
+      "tamanho_bytes": 7934,
+      "tamanho": "7.75 KB",
+      "sha256": "16b6781780264ee22b91d89a62a582261396ecf13097ba7e4e9d6307b2928c63",
+      "texto": true,
+      "linhas": 293,
+      "categorias": [
+        "banco_dados",
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ]
+      }
+    },
+    {
+      "arquivo": "GESTAO_CLIENTES.md",
+      "extensao": ".md",
+      "tamanho_bytes": 8113,
+      "tamanho": "7.92 KB",
+      "sha256": "183cee91018b0733a5a11ebbc27e62ada150f850598889d3312ffbd34ced9007",
+      "texto": true,
+      "linhas": 266,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "GESTAO_USUARIOS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 10459,
+      "tamanho": "10.21 KB",
+      "sha256": "e34b07a434f8d4737cc14ff9a8163f25b270d820a8b371bb0e5837c4955c71ac",
+      "texto": true,
+      "linhas": 338,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "password_hash",
+          "senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "GUIA_CONFIGURACAO_SMTP.md",
+      "extensao": ".md",
+      "tamanho_bytes": 9498,
+      "tamanho": "9.28 KB",
+      "sha256": "48381f1d8f136a4b57114eb82355a9da19245041ec7cc24140acadbb95416d3c",
+      "texto": true,
+      "linhas": 417,
+      "categorias": [
+        "senhas",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "config_smtp"
+        ]
+      }
+    },
+    {
+      "arquivo": "GUIA_PERSONALIZACAO_PDF.md",
+      "extensao": ".md",
+      "tamanho_bytes": 10848,
+      "tamanho": "10.59 KB",
+      "sha256": "838af464ad9d0b77aa5699c0aef8d55fda74a1c990684194b1c69dc5a58d213a",
+      "texto": true,
+      "linhas": 417,
+      "categorias": [
+        "uploads",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "uploads": [
+          "fotos"
+        ],
+        "pdf": [
+          "FPDF",
+          "gerar_pdf",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "GUIA_RAPIDO.md",
+      "extensao": ".md",
+      "tamanho_bytes": 5429,
+      "tamanho": "5.30 KB",
+      "sha256": "a6673b448c35a2e838dc5d60d510e540592bc0e955792c7518205ca7e36d342c",
+      "texto": true,
+      "linhas": 202,
+      "categorias": [
+        "senhas",
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "uploads": [
+          "fotos"
+        ]
+      }
+    },
+    {
+      "arquivo": "GUIA_WHATSAPP.md",
+      "extensao": ".md",
+      "tamanho_bytes": 10911,
+      "tamanho": "10.66 KB",
+      "sha256": "fa6d6b145dc971ac23865f8dda26f06bd4824bfee2d2fadf557e5018242ff993",
+      "texto": true,
+      "linhas": 516,
+      "categorias": [
+        "whatsapp"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "Twilio"
+        ]
+      }
+    },
+    {
+      "arquivo": "index.php",
+      "extensao": ".php",
+      "tamanho_bytes": 5913,
+      "tamanho": "5.77 KB",
+      "sha256": "34194bdd1da3f77c159109ba86c7920da36af0d14fa57d21d4834d573ce7ac94",
+      "texto": true,
+      "linhas": 212,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\n                </div>\n                \n                <button type=\"",
+        "required>\n                </div>\n                \n                <div class=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "session_start",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "senhas": [
+          "password_verify",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "seguranca_risco": [
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/changelog.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 9895,
+      "tamanho": "9.66 KB",
+      "sha256": "ec90743c0eef9b79d0fa4c7664175a8d61e26c9b3688d7acdf3d35683c770e24",
+      "texto": true,
+      "linhas": 184,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/__construct.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 2021,
+      "tamanho": "1.97 KB",
+      "sha256": "c0ce9c3ba00a833484fe458ee71a0d5b44cf61551e2195f3f06ff2d57a04f2ce",
+      "texto": true,
+      "linhas": 64,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/acceptpagebreak.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1863,
+      "tamanho": "1.82 KB",
+      "sha256": "490103df0540e39a04e7c06d1abed1bf143b946c8e7c33be8c19735a8f0f26d5",
+      "texto": true,
+      "linhas": 64,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/addfont.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1805,
+      "tamanho": "1.76 KB",
+      "sha256": "a04a51076506a3a4e23c3dd060d118d4800f4b6229c3fd18add20e08ace6f4ae",
+      "texto": true,
+      "linhas": 56,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/addlink.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 897,
+      "tamanho": "897.00 B",
+      "sha256": "e56a85b204395a126f191d6b62069f2ceb803b0843345907619b2dd77dd7688e",
+      "texto": true,
+      "linhas": 27,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/addpage.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 2200,
+      "tamanho": "2.15 KB",
+      "sha256": "c389f3eaf305c7bcb1d9eee10fd11cf6737ea665de29cd65927a936af06e2f2d",
+      "texto": true,
+      "linhas": 62,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/aliasnbpages.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1259,
+      "tamanho": "1.23 KB",
+      "sha256": "a1b7358b91fd1d5acab590381afd4f1239a2d513fd32eb5b51d209c32e24e236",
+      "texto": true,
+      "linhas": 46,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/cell.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 3454,
+      "tamanho": "3.37 KB",
+      "sha256": "178aa93a75409584d39df2f16bb156585cffc523eacadaff63d6c943faa15edd",
+      "texto": true,
+      "linhas": 105,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/close.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 711,
+      "tamanho": "711.00 B",
+      "sha256": "484dfaf50c7c5487d07b75b7481b501abffe3d8acab76a9f9b5ba357f32d362b",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/error.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 846,
+      "tamanho": "846.00 B",
+      "sha256": "ec9234e6593f9f5236202e618efcb270c602aef3f6fac16a5773dc1d74df2f90",
+      "texto": true,
+      "linhas": 27,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/footer.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1164,
+      "tamanho": "1.14 KB",
+      "sha256": "53fc2b1faf3bde1114b7f5da616616377994327770cd11f18a16a126564ec4be",
+      "texto": true,
+      "linhas": 36,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/getpageheight.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 566,
+      "tamanho": "566.00 B",
+      "sha256": "a2d87a5ed06efa4082ab6923a2380e5b7baa42f23bd5f048bf98f9ccbcd6fbfe",
+      "texto": true,
+      "linhas": 19,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/getpagewidth.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 564,
+      "tamanho": "564.00 B",
+      "sha256": "a7b60d63a8b08746bbcd72ab7e906b5fe1d4405f9887d29ed1c86caa3fdd6e1b",
+      "texto": true,
+      "linhas": 19,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/getstringwidth.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 687,
+      "tamanho": "687.00 B",
+      "sha256": "4c0e92da1250aaaf6cf1552428dcfc764ba1f2e1e0a9d9586604a69c126f17ec",
+      "texto": true,
+      "linhas": 24,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/getx.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 596,
+      "tamanho": "596.00 B",
+      "sha256": "8f39811c4a84aa03443f75ae47d48b6b15930b6d4cbe2ad7bcd24cefd9016b8d",
+      "texto": true,
+      "linhas": 21,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/gety.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 596,
+      "tamanho": "596.00 B",
+      "sha256": "3d0a02290cdfdf68b6e3d1e876705a46e796c69e5fdfb8be3d95f6f9e6b18325",
+      "texto": true,
+      "linhas": 21,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/header.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1162,
+      "tamanho": "1.13 KB",
+      "sha256": "84c6dbbc1324d42967ace9e246d9d6827e125557df32b2eb96c452d389745338",
+      "texto": true,
+      "linhas": 38,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/image.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 3698,
+      "tamanho": "3.61 KB",
+      "sha256": "3c4a9346794d614d5e21302de49b684571b4bec9492bc577b767d6896b83e612",
+      "texto": true,
+      "linhas": 100,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "INSERT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/index.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 3410,
+      "tamanho": "3.33 KB",
+      "sha256": "d299f7e0c5c17d19e6357cd007424fbb31533f09ef094e31c1881df491018846",
+      "texto": true,
+      "linhas": 60,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/line.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 948,
+      "tamanho": "948.00 B",
+      "sha256": "50b73a0f87f909605dce4f8598389e78f05a355fc4617baedb9043fc85d58916",
+      "texto": true,
+      "linhas": 39,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/link.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1304,
+      "tamanho": "1.27 KB",
+      "sha256": "76c7e72bcbf3f481833b42286728144c21461b830c72d732989f85bcd6342e2f",
+      "texto": true,
+      "linhas": 47,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/ln.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 808,
+      "tamanho": "808.00 B",
+      "sha256": "6d18979d86adc40b6ead5ed1c23c88039b07a483fb795456c201af8412002631",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/multicell.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 2468,
+      "tamanho": "2.41 KB",
+      "sha256": "7952a1d85d8ffd443fe2035b33ff210a30a78566136de0cc81b78813672d62b2",
+      "texto": true,
+      "linhas": 77,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/output.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 2093,
+      "tamanho": "2.04 KB",
+      "sha256": "ca07fdab7a4338cb356317676a8826cc077d8d6f1a33de7c7036ee6d70335714",
+      "texto": true,
+      "linhas": 56,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/pageno.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 543,
+      "tamanho": "543.00 B",
+      "sha256": "936b37ff3f899c270f7090e1ae8af1fa1260ca9122d0526e801a199e80a4d25e",
+      "texto": true,
+      "linhas": 19,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/rect.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1300,
+      "tamanho": "1.27 KB",
+      "sha256": "c25f47e7bc686d3e6892f65a4e620f18c027a7a2a3d439c573922d3001ec2b36",
+      "texto": true,
+      "linhas": 49,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setauthor.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1010,
+      "tamanho": "1010.00 B",
+      "sha256": "4e4ebf3c3174d01383c4fbea8392ff199270aa2c1ef0758d41f45a9c956f6591",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setautopagebreak.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1090,
+      "tamanho": "1.06 KB",
+      "sha256": "60384369207b86dc5fa7b3169b3eb244a03a7b2159be552c270d50af4dca8b82",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setcompression.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 989,
+      "tamanho": "989.00 B",
+      "sha256": "9847d694ef58e0099b9465439415912e6445e7b1700425daa3f17a27326ff55a",
+      "texto": true,
+      "linhas": 32,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setcreator.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1086,
+      "tamanho": "1.06 KB",
+      "sha256": "0cc8f869d0292770efcd1a910873b98fed51a7191c7fd6758b77c2f3be970245",
+      "texto": true,
+      "linhas": 35,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setdisplaymode.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1759,
+      "tamanho": "1.72 KB",
+      "sha256": "b9d3edf8b1e7deaf98d9d7ddcbf8e4fd17e6c3b801a3f6d8ea8dcd2364d84f7e",
+      "texto": true,
+      "linhas": 46,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setdrawcolor.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1342,
+      "tamanho": "1.31 KB",
+      "sha256": "411f8cb4a72279145bbeafe20c9b1cb6e0de26cf2c5a19a43abe2c34581d7408",
+      "texto": true,
+      "linhas": 42,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setfillcolor.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1317,
+      "tamanho": "1.29 KB",
+      "sha256": "4dc7b6d58a59e9a23158b7ddc5655f7a7ae447a2b358c165583a3fcaadf0487a",
+      "texto": true,
+      "linhas": 41,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setfont.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 3288,
+      "tamanho": "3.21 KB",
+      "sha256": "0b1aaf97d2f0455a38649f9a3fa1e697ee4450d35852df145f3dbabb12fe5635",
+      "texto": true,
+      "linhas": 92,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setfontsize.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 671,
+      "tamanho": "671.00 B",
+      "sha256": "7c37dc2b8b9284312790cff2a696d22f4347cf6fa2516a71a041aaca587f1f2b",
+      "texto": true,
+      "linhas": 26,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setkeywords.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1064,
+      "tamanho": "1.04 KB",
+      "sha256": "e1a17ca52767db793635113de90816a98d81f4d3412eed755e590f022ab46777",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setleftmargin.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 954,
+      "tamanho": "954.00 B",
+      "sha256": "bcde33e60441c4f04cd765dd61a8f8ab4835cf578a7b1f47a671adafe0250720",
+      "texto": true,
+      "linhas": 31,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setlinewidth.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 886,
+      "tamanho": "886.00 B",
+      "sha256": "078bd91277fafb338bfd7100f767ad955148865f1603aa0fca24683ffef7d7d4",
+      "texto": true,
+      "linhas": 30,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setlink.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1031,
+      "tamanho": "1.01 KB",
+      "sha256": "9479b6a5307329a20f6a30c6aafbe8efb8932dda81f19113ca6e5824a79840ef",
+      "texto": true,
+      "linhas": 35,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setmargins.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1069,
+      "tamanho": "1.04 KB",
+      "sha256": "256242ccc6d0e3f793f68a7af6097e9d485a5958744914c5752928b4091ae8a1",
+      "texto": true,
+      "linhas": 38,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setrightmargin.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 873,
+      "tamanho": "873.00 B",
+      "sha256": "4ac403e9483b1a901f7f9d4c99b691662bf6d15cc56b360cd3de207ad40107f1",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setsubject.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1003,
+      "tamanho": "1003.00 B",
+      "sha256": "1a724c324d7a261f57297647f519d28f72a1b50b2159adb8c8754264fa791025",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/settextcolor.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1257,
+      "tamanho": "1.23 KB",
+      "sha256": "afd0ebd50fa96f11ac13f7d6af9dc22edd128ed015433e47f5b24a637532b66f",
+      "texto": true,
+      "linhas": 41,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/settitle.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 993,
+      "tamanho": "993.00 B",
+      "sha256": "0174e8f68f19a1fd12389c00b697446f6368192e79b436fa9975ca26d592053f",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/settopmargin.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 869,
+      "tamanho": "869.00 B",
+      "sha256": "cec44bfe40351e663c088175dbb3f885764fb261e68be7f26dccf5d761451637",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setx.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 818,
+      "tamanho": "818.00 B",
+      "sha256": "726bf8836f145b365195f71a0f7257bfa2840ebed8b74c30b8cd491c088e2189",
+      "texto": true,
+      "linhas": 30,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/setxy.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 883,
+      "tamanho": "883.00 B",
+      "sha256": "0d2ba6c78e37ea54ebabf86827964525de382dd22a1d8c48a4d2094bff5c9be2",
+      "texto": true,
+      "linhas": 32,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/sety.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 986,
+      "tamanho": "986.00 B",
+      "sha256": "a7d7f7e7e5bc4986880c240b4e5710cf0f8a9cd717469d67a0afb2a33e577d58",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/text.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1177,
+      "tamanho": "1.15 KB",
+      "sha256": "f82124187be1a61059c4cfb638eacbe4fe41030090c9d1f7e741a63124cc8a15",
+      "texto": true,
+      "linhas": 40,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/doc/write.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 1587,
+      "tamanho": "1.55 KB",
+      "sha256": "ec6b3d0c85b5098fe9b0f5416aefb3df1bb1653c48cd7965cb2b1cbc754357a6",
+      "texto": true,
+      "linhas": 52,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/FAQ.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 10983,
+      "tamanho": "10.73 KB",
+      "sha256": "60bbc6fac4fc3c78076e752ce00fd9ce81b8bfff122ae6c54eec96073ad8e64f",
+      "texto": true,
+      "linhas": 271,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/font/courier.php",
+      "extensao": ".php",
+      "tamanho_bytes": 442,
+      "tamanho": "442.00 B",
+      "sha256": "012ecee29a2135822aa784bb4900fe36a3156bb074b14a007a5a69e533a7512f",
+      "texto": true,
+      "linhas": 11,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/courierb.php",
+      "extensao": ".php",
+      "tamanho_bytes": 447,
+      "tamanho": "447.00 B",
+      "sha256": "bbb262642fbf719dd72ea7c8259a79188b160f611c43e511b742c16c25c031df",
+      "texto": true,
+      "linhas": 11,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/courierbi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 454,
+      "tamanho": "454.00 B",
+      "sha256": "e72ed92ec48cefd90e1d6c9c83e09ccb1d895377cb9dc859e65b40fe5ec36ba6",
+      "texto": true,
+      "linhas": 11,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/courieri.php",
+      "extensao": ".php",
+      "tamanho_bytes": 450,
+      "tamanho": "450.00 B",
+      "sha256": "72c42d4871123d73f96e0a09fe1e56770e114e24d1ec1a83a6f39fad76daf9e1",
+      "texto": true,
+      "linhas": 11,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/helvetica.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3525,
+      "tamanho": "3.44 KB",
+      "sha256": "47534cb702a8d12e48e4e87de5e70577c1ab53c7f85599d2fbc1ae39787b9f1e",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/helveticab.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3529,
+      "tamanho": "3.45 KB",
+      "sha256": "0f5b862a5cdcbb3c41ea64913e9de7dd6b6a5fe623f74bd812a7ba5311439306",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/helveticabi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3536,
+      "tamanho": "3.45 KB",
+      "sha256": "aa065982dc74217f276f12a444d51057ab56fd989a19273031594e3b6dbd35e3",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/helveticai.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3533,
+      "tamanho": "3.45 KB",
+      "sha256": "f0ed11444ee0e3f8ed7c86d1d5caaeb61d5dd80fb80c3218e111f649fc433cee",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/symbol.php",
+      "extensao": ".php",
+      "tamanho_bytes": 4484,
+      "tamanho": "4.38 KB",
+      "sha256": "941154c0a00b455060f7f315ddd96fc2d03eff3a54be82979acb8a9722cfe1af",
+      "texto": true,
+      "linhas": 21,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/times.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3523,
+      "tamanho": "3.44 KB",
+      "sha256": "9f4a1da0556616714c26bf982f2471a1bc31855d48709a68605d54f96ebbb8b5",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/timesb.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3527,
+      "tamanho": "3.44 KB",
+      "sha256": "c19d7f7c75a18f373e1fef089b7082c6c2098adaa300b77ae0d9d658ed9b2433",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/timesbi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3529,
+      "tamanho": "3.45 KB",
+      "sha256": "52a6073b0efdc844c8ed13b4ecfdce1581243b5c053c8b2f4783af45fcef0131",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/timesi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3522,
+      "tamanho": "3.44 KB",
+      "sha256": "35e61c5bc60001a41debf0653da42f0df4b9403a88f4411a077be663708e0021",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/font/zapfdingbats.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3538,
+      "tamanho": "3.46 KB",
+      "sha256": "751155f98d1765bfd5397c5ea59c941a5bee9fe08dc5906e1375133a4d716d6e",
+      "texto": true,
+      "linhas": 21,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/fpdf.css",
+      "extensao": ".css",
+      "tamanho_bytes": 1339,
+      "tamanho": "1.31 KB",
+      "sha256": "a8518487f840d1a495498b81e2d4ef1be950e57446c51472bf977c87dc3ce3fa",
+      "texto": true,
+      "linhas": 22,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/fpdf.php",
+      "extensao": ".php",
+      "tamanho_bytes": 50838,
+      "tamanho": "49.65 KB",
+      "sha256": "20f2140c9462d6abdc2c5d5466a347403942c5c8324cd77f6e2c8c23ecaccbf8",
+      "texto": true,
+      "linhas": 1936,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [
+        "AcceptPageBreak",
+        "AddFont",
+        "AddLink",
+        "AddPage",
+        "AliasNbPages",
+        "Cell",
+        "Close",
+        "Error",
+        "Footer",
+        "GetPageHeight",
+        "GetPageWidth",
+        "GetStringWidth",
+        "GetX",
+        "GetY",
+        "Header",
+        "Image",
+        "Line",
+        "Link",
+        "Ln",
+        "MultiCell",
+        "Output",
+        "PageNo",
+        "Rect",
+        "SetAuthor",
+        "SetAutoPageBreak",
+        "SetCompression",
+        "SetCreator",
+        "SetDisplayMode",
+        "SetDrawColor",
+        "SetFillColor",
+        "SetFont",
+        "SetFontSize",
+        "SetKeywords",
+        "SetLeftMargin",
+        "SetLineWidth",
+        "SetLink",
+        "SetMargins",
+        "SetRightMargin",
+        "SetSubject",
+        "SetTextColor",
+        "SetTitle",
+        "SetTopMargin",
+        "SetX",
+        "SetXY",
+        "SetY",
+        "Text",
+        "Write",
+        "_UTF8encode",
+        "_UTF8toUTF16",
+        "__construct",
+        "_beginpage",
+        "_checkoutput",
+        "_dounderline",
+        "_enddoc",
+        "_endpage",
+        "_escape",
+        "_getoffset",
+        "_getpagesize",
+        "_httpencode",
+        "_isascii",
+        "_loadfont",
+        "_newobj",
+        "_out",
+        "_parsegif",
+        "_parsejpg",
+        "_parsepng",
+        "_parsepngstream",
+        "_put",
+        "_putcatalog",
+        "_putfonts",
+        "_putheader",
+        "_putimage",
+        "_putimages",
+        "_putinfo",
+        "_putlinks",
+        "_putpage",
+        "_putpages",
+        "_putresourcedict",
+        "_putresources",
+        "_putstream",
+        "_putstreamobject",
+        "_puttrailer",
+        "_putxobjectdict",
+        "_readint",
+        "_readstream",
+        "_textstring",
+        "_tounicodecmap"
+      ],
+      "includes": [
+        "include font definition file'",
+        "include($this->fontpath.$font);\r\n\tif(!isset($name))\r\n\t\t$this->Error('",
+        "required for GIF support'"
+      ],
+      "tabelas_sql": [
+        "a",
+        "stream",
+        "the"
+      ],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/install.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 562,
+      "tamanho": "562.00 B",
+      "sha256": "a661bbab74bc6a1c567bf8afc5ea2e824624b34fee0e107bcdac19df4eb32570",
+      "texto": true,
+      "linhas": 16,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/license.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 331,
+      "tamanho": "331.00 B",
+      "sha256": "44b085ba3e622633e3dfc75e06fd8f03b173fff64055390218b88e6e6809953d",
+      "texto": true,
+      "linhas": 6,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1250.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4546,
+      "tamanho": "4.44 KB",
+      "sha256": "1f066ac80d413996ea573b7b7f5ab538f69935529f694815eaf155f4a487a28e",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1251.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4776,
+      "tamanho": "4.66 KB",
+      "sha256": "1ac1898fb1eea72798cd1955671f782350dc583e536a844a20435f2357762868",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1252.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4541,
+      "tamanho": "4.43 KB",
+      "sha256": "0e86449f41c6ddb555035043b357cf14b3f62b73b2689d551a011e814268f66d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1253.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4255,
+      "tamanho": "4.16 KB",
+      "sha256": "9deca8de9b942161427810f50d912018ea0d702a5efe4e6643b1efae7d843c63",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1254.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4523,
+      "tamanho": "4.42 KB",
+      "sha256": "a315c4702d79764001d9ecb7452b0d9eed1fd15432c440608aed8d18b0bbab4a",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1255.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4298,
+      "tamanho": "4.20 KB",
+      "sha256": "76b6ad5b40bd62a92ef1f9e06e2a956a3f3b818815558c59d9980063aba04c2d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1257.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4434,
+      "tamanho": "4.33 KB",
+      "sha256": "ad0a233ec62a1f43905118e2e7b3d68a263576cc53c08b609300add0e46919f7",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp1258.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4493,
+      "tamanho": "4.39 KB",
+      "sha256": "66bb92568ca7517b27cc8796f8396dac0fa6419d8dcfd6f7c944fcd44759c10d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/cp874.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4263,
+      "tamanho": "4.16 KB",
+      "sha256": "73e1adb50c80d112fe12e0aa2d3bd5d9fc88d385b916637234328d29ddef4b07",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-1.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4605,
+      "tamanho": "4.50 KB",
+      "sha256": "4610c0447829ab94d9bd15130f57dc60ac524b79ed5e9c46e04c6b9ff96b5674",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-11.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4689,
+      "tamanho": "4.58 KB",
+      "sha256": "a1e0ad79a8dfc00c4d4cad59f6f734403b8d1e4281ec39d0012d8a2d1160cac4",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-15.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4579,
+      "tamanho": "4.47 KB",
+      "sha256": "ff13201689af608fb834eb11d4b02a714f24953ebe54d9faff15cad5a41bbeee",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-16.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4625,
+      "tamanho": "4.52 KB",
+      "sha256": "e792b80fa17b08bd9a90d891c0034173c4abfb394e4e2932ee1b06acff5a7fd8",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-2.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4569,
+      "tamanho": "4.46 KB",
+      "sha256": "4b569d73ac29b3ab5dbd14989e7398d993069cbddcd80a008b1093ca17521ce4",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-4.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4588,
+      "tamanho": "4.48 KB",
+      "sha256": "3d8b417e076cf51dd610fe5c27e8749a96be7b79854132435b120600c3dd524a",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-5.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4719,
+      "tamanho": "4.61 KB",
+      "sha256": "505823fe910cb90831b1ea50037cf8343ef94b7a64112db3118a1b6aa3f5dd6b",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-7.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4430,
+      "tamanho": "4.33 KB",
+      "sha256": "ba728c29fac64d7d9336f9003f659db94235fe3c8487acfcefac0fa774ac5c8f",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/iso-8859-9.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4623,
+      "tamanho": "4.51 KB",
+      "sha256": "3bc7fc6710c800c6da91750b0ab57ac0ac60a1222d4003b586372d73a6c81b5f",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/koi8-r.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4739,
+      "tamanho": "4.63 KB",
+      "sha256": "770135967b723a1b5a31fc25d90172a40648a8143d92c1a29f5817639108cd9d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/koi8-u.map",
+      "extensao": ".map",
+      "tamanho_bytes": 4739,
+      "tamanho": "4.63 KB",
+      "sha256": "9b765ae7cdf70a88ddcd8782f4c4202315b106e4f73c288c44ae88a05ef73864",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/makefont.php",
+      "extensao": ".php",
+      "tamanho_bytes": 10873,
+      "tamanho": "10.62 KB",
+      "sha256": "f08944cd36033fafe0c4d8934486a90b1bcaf0b351020394fed8ec942d961387",
+      "texto": true,
+      "linhas": 448,
+      "categorias": [],
+      "funcoes_php": [
+        "Error",
+        "GetInfoFromTrueType",
+        "GetInfoFromType1",
+        "LoadMap",
+        "MakeDefinitionFile",
+        "MakeFont",
+        "MakeFontDescriptor",
+        "MakeFontEncoding",
+        "MakeUnicodeArray",
+        "MakeWidthArray",
+        "Message",
+        "Notice",
+        "SaveToFile",
+        "Warning"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [
+        "a",
+        "reference"
+      ],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/makefont/ttfparser.php",
+      "extensao": ".php",
+      "tamanho_bytes": 17951,
+      "tamanho": "17.53 KB",
+      "sha256": "73cc77ff491069e8c3d11c1297176335b51ee182d3a8d310162b6e0a0639411f",
+      "texto": true,
+      "linhas": 715,
+      "categorias": [],
+      "funcoes_php": [
+        "AddGlyph",
+        "Build",
+        "BuildCmap",
+        "BuildFont",
+        "BuildGlyf",
+        "BuildHhea",
+        "BuildHmtx",
+        "BuildLoca",
+        "BuildMaxp",
+        "BuildPost",
+        "CheckSum",
+        "Error",
+        "LoadTable",
+        "Parse",
+        "ParseCmap",
+        "ParseGlyf",
+        "ParseHead",
+        "ParseHhea",
+        "ParseHmtx",
+        "ParseLoca",
+        "ParseMaxp",
+        "ParseName",
+        "ParseOS2",
+        "ParseOffsetTable",
+        "ParsePost",
+        "Read",
+        "ReadShort",
+        "ReadULong",
+        "ReadUShort",
+        "Seek",
+        "SetTable",
+        "Skip",
+        "Subset",
+        "__construct",
+        "__destruct"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/20k_c1.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 5512,
+      "tamanho": "5.38 KB",
+      "sha256": "61a64ad49d797c81b6aabee30dbd5235ee184a4e7f33084c153929f54fb486fe",
+      "texto": true,
+      "linhas": 11,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/20k_c2.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 7307,
+      "tamanho": "7.14 KB",
+      "sha256": "38cdd37e1950a28155322e15dd4b3cbe49a3281e503327b0fa6c00f76f4c8891",
+      "texto": true,
+      "linhas": 24,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/CevicheOne-Regular-Licence.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 4519,
+      "tamanho": "4.41 KB",
+      "sha256": "1db483a741ea1a3adaa2f3adf4af5e9a7fbd094ac974513283e6896d4ffe60a2",
+      "texto": true,
+      "linhas": 95,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/CevicheOne-Regular.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3767,
+      "tamanho": "3.68 KB",
+      "sha256": "5617d2c2c2b33ca61baf414b82b0de02d6910666b96c7eb9595f2f7450517be8",
+      "texto": true,
+      "linhas": 26,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/CevicheOne-Regular.ttf",
+      "extensao": ".ttf",
+      "tamanho_bytes": 35576,
+      "tamanho": "34.74 KB",
+      "sha256": "8dc6ae995c4f7002390eaf91525a7c7a81ac19160ce83f2ee4b949432ca0492a",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/CevicheOne-Regular.z",
+      "extensao": ".z",
+      "tamanho_bytes": 15498,
+      "tamanho": "15.13 KB",
+      "sha256": "ea0b590ede69a13bc5a1c425753367eb78f8254a24ab8d036406c7505e90a399",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/countries.txt",
+      "extensao": ".txt",
+      "tamanho_bytes": 442,
+      "tamanho": "442.00 B",
+      "sha256": "dc53080ce7034e94d1241635c73d6c8fbe3cbe901eb27ad61a60a8512a25c6e5",
+      "texto": true,
+      "linhas": 16,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/index.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 842,
+      "tamanho": "842.00 B",
+      "sha256": "6f50886dc36ce15ac8e7fb9a5a82597c261ec21d19571d5e60ac6b3a02ae48d0",
+      "texto": true,
+      "linhas": 21,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/logo.png",
+      "extensao": ".png",
+      "tamanho_bytes": 2373,
+      "tamanho": "2.32 KB",
+      "sha256": "8cbba01bc0cfbc2f48967a22cac8353a840493c9076d73ce139d431abb70831b",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/makefont.php",
+      "extensao": ".php",
+      "tamanho_bytes": 141,
+      "tamanho": "141.00 B",
+      "sha256": "79c1ec9004440cbf382025e3f43b8e77554ab69255a46e853c5a62e6bb7d526a",
+      "texto": true,
+      "linhas": 7,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto1.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 4787,
+      "tamanho": "4.67 KB",
+      "sha256": "53ccd978de222bc086667303059e7ad3c9c23f069b04a6fc51877cf3d6d855ed",
+      "texto": true,
+      "linhas": 77,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto1.php",
+      "extensao": ".php",
+      "tamanho_bytes": 160,
+      "tamanho": "160.00 B",
+      "sha256": "bde26efaf9bd49ebcd89ab385082e29b8a11802c975fe61e15eee871c872cc34",
+      "texto": true,
+      "linhas": 10,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto2.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 5628,
+      "tamanho": "5.50 KB",
+      "sha256": "ad344e00d3550cb31a600268b07f124ee787a485628afc93ac8dd655c702be6a",
+      "texto": true,
+      "linhas": 81,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto2.php",
+      "extensao": ".php",
+      "tamanho_bytes": 783,
+      "tamanho": "783.00 B",
+      "sha256": "fa1aa499dcb320c3705db28aaa52e2db0142c61351dfc594134b4559cdf9a6a3",
+      "texto": true,
+      "linhas": 42,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [
+        "Footer",
+        "Header"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [
+        "bottom"
+      ],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto3.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 8965,
+      "tamanho": "8.75 KB",
+      "sha256": "dc1b4af5595d14595b91ad848c81d8032b3eb399a22227f0373723298d6d68db",
+      "texto": true,
+      "linhas": 116,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto3.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1770,
+      "tamanho": "1.73 KB",
+      "sha256": "3bafac65f03e39a8a8ecc23b10faa48639b4ddad1260c64ad226d39a66d04fbe",
+      "texto": true,
+      "linhas": 82,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [
+        "ChapterBody",
+        "ChapterTitle",
+        "Footer",
+        "Header",
+        "PrintChapter"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [
+        "bottom"
+      ],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto4.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 9804,
+      "tamanho": "9.57 KB",
+      "sha256": "7bbbe6af382db4eeab60dc35e2acdd72a3fb848922b19194b9aa2e5483a55f74",
+      "texto": true,
+      "linhas": 133,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto4.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2239,
+      "tamanho": "2.19 KB",
+      "sha256": "0e7a7e5a2517e9a3ccdae0ceda45c8ef1683b11336be66564db7477d8c0c7b77",
+      "texto": true,
+      "linhas": 110,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [
+        "AcceptPageBreak",
+        "ChapterBody",
+        "ChapterTitle",
+        "Footer",
+        "Header",
+        "PrintChapter",
+        "SetCol"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto5.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 12328,
+      "tamanho": "12.04 KB",
+      "sha256": "357e730736836215a72e1078689d5cd9396da9e09e9456349d91976724bd1b05",
+      "texto": true,
+      "linhas": 135,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto5.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2321,
+      "tamanho": "2.27 KB",
+      "sha256": "e2c69b309c68174518a46022940946fe08298725ed599a8bbfdc609ec1e12bd2",
+      "texto": true,
+      "linhas": 103,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [
+        "BasicTable",
+        "FancyTable",
+        "ImprovedTable",
+        "LoadData"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto6.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 11883,
+      "tamanho": "11.60 KB",
+      "sha256": "a5f22704da8828a4f227eb0eb65395ab9cdb7a4fd86d13dcfdc13369115276a2",
+      "texto": true,
+      "linhas": 155,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT ",
+          "INSERT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto6.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2454,
+      "tamanho": "2.40 KB",
+      "sha256": "a1099e4957d3269cf70afca7e22321c3e6c8c64cdd206918ad57efb252f1f977",
+      "texto": true,
+      "linhas": 114,
+      "categorias": [
+        "banco_dados",
+        "pdf"
+      ],
+      "funcoes_php": [
+        "CloseTag",
+        "OpenTag",
+        "PutLink",
+        "SetStyle",
+        "WriteHTML"
+      ],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT ",
+          "INSERT "
+        ],
+        "pdf": [
+          "FPDF",
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto7.htm",
+      "extensao": ".htm",
+      "tamanho_bytes": 8468,
+      "tamanho": "8.27 KB",
+      "sha256": "8beff6c8edad9427a530a3bece6685a0ae45d3993541233f316358f8634d1304",
+      "texto": true,
+      "linhas": 183,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/fpdf/tutorial/tuto7.php",
+      "extensao": ".php",
+      "tamanho_bytes": 265,
+      "tamanho": "265.00 B",
+      "sha256": "f4b298d22d2aef157c9432915c1e17c4c83c27eaac313066ec8921e303dd9f74",
+      "texto": true,
+      "linhas": 12,
+      "categorias": [
+        "pdf"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require('"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "pdf": [
+          "FPDF",
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/.editorconfig",
+      "extensao": "",
+      "tamanho_bytes": 235,
+      "tamanho": "235.00 B",
+      "sha256": "b16ff9077e42dfc328da6e62724bd49126c3820c2db26152d2723d96e846d51c",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/phpmailer/COMMITMENT",
+      "extensao": "",
+      "tamanho_bytes": 2138,
+      "tamanho": "2.09 KB",
+      "sha256": "f78706367e9f16b7fcf137d2ce1b961340ffe7a05d7006583f177d1abbce5d4d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/phpmailer/composer.json",
+      "extensao": ".json",
+      "tamanho_bytes": 2752,
+      "tamanho": "2.69 KB",
+      "sha256": "7267073e543a664866e17ce96ed2e5ce24d1a3e4da2f0e904824818f727e99bd",
+      "texto": true,
+      "linhas": 80,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/get_oauth_token.php",
+      "extensao": ".php",
+      "tamanho_bytes": 6408,
+      "tamanho": "6.26 KB",
+      "sha256": "2515069f98ec0cc79616ff7b703b4e160141f8c57046d8f4fac4f5aa544b7ae0",
+      "texto": true,
+      "linhas": 183,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "email",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require '"
+      ],
+      "tabelas_sql": [
+        "an",
+        "here"
+      ],
+      "achados": {
+        "login_sessao": [
+          "session_start"
+        ],
+        "banco_dados": [
+          "SELECT "
+        ],
+        "email": [
+          "SMTP"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-af.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1610,
+      "tamanho": "1.57 KB",
+      "sha256": "3562b9cf85e4df6005ed8a7aa0f84897d71a5c41e31e616a540c95cae5009a24",
+      "texto": true,
+      "linhas": 27,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ar.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2051,
+      "tamanho": "2.00 KB",
+      "sha256": "a57c8d6b1e4f001d7486457b1ee085c60a909371c2744da75353ba59fd569e4c",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-as.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3827,
+      "tamanho": "3.74 KB",
+      "sha256": "40a15bb237920d293fc04e6aa60fd0bde2a4e830e45dadbf9e0b8bdc63d52d3a",
+      "texto": true,
+      "linhas": 36,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-az.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1776,
+      "tamanho": "1.73 KB",
+      "sha256": "705dff62ed7713d627592ca3f3ec1b2d5e83405e21f75beef27f736a3c40d51e",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ba.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1772,
+      "tamanho": "1.73 KB",
+      "sha256": "f3d99260d982187542163b8b846ced4124192e6fd4d9077ffe57f23cbe873295",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-be.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2205,
+      "tamanho": "2.15 KB",
+      "sha256": "b5ec0b8b9d01ea81ce051e0062fcda30167de4fd6d9b6d85d770696ac383c1c6",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-bg.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2223,
+      "tamanho": "2.17 KB",
+      "sha256": "b72849c00a2982df86cf6344a033d01caf12649fe3e782a0938d6233390cfd4e",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-bn.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3880,
+      "tamanho": "3.79 KB",
+      "sha256": "06cf8ff0a58b76998856fd1ceb1312d1507364f0836a29b93896d47cd25606fa",
+      "texto": true,
+      "linhas": 36,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ca.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1757,
+      "tamanho": "1.72 KB",
+      "sha256": "6ce4540a6ae370d1296b28332b2872e24d2d4bd32932a049de83cff7650beb2a",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-cs.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1826,
+      "tamanho": "1.78 KB",
+      "sha256": "8ca8213729839c4aa4fa8baf445201b83ed638ff045eeb751c96a9b8d5b30d2d",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-da.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2445,
+      "tamanho": "2.39 KB",
+      "sha256": "bd4fa80cd73183b1fdf6a40bb89ddf7dc60266a174e1853dc5f767e1fc99c4a8",
+      "texto": true,
+      "linhas": 37,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-de.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1914,
+      "tamanho": "1.87 KB",
+      "sha256": "cb96888302e4dab0d9b267007540fa5cdc657e87d99037f4f5063b5eb1fff7bd",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-el.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3340,
+      "tamanho": "3.26 KB",
+      "sha256": "8abe0253a66664462b89fc40fdb123f99c74090f7177b03fcd256b6632efe35f",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-eo.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1691,
+      "tamanho": "1.65 KB",
+      "sha256": "86acfa315aac964a44b701c68e04cc40fae9b0afa0305747ec40c8664c5d9e7a",
+      "texto": true,
+      "linhas": 27,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-es.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2078,
+      "tamanho": "2.03 KB",
+      "sha256": "aa634034b13cfd7c0f41948a2ebbc2f8c61ae4f61c4545f3fb02dfcfb2950c80",
+      "texto": true,
+      "linhas": 32,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-et.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1772,
+      "tamanho": "1.73 KB",
+      "sha256": "5052536d8f63f3504d1984377598accb5dcb4bd2855206c15c73854ca4f5e21a",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-fa.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2107,
+      "tamanho": "2.06 KB",
+      "sha256": "c5618d489bd15d87ea4934398a0f27fcac4f95cfb77285c2e4297067eb991fe4",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-fi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1686,
+      "tamanho": "1.65 KB",
+      "sha256": "31991dd09e0f674b02decab2dd20622fd150120e3643b6170340eec4225a647e",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-fo.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1664,
+      "tamanho": "1.62 KB",
+      "sha256": "00acfceb97be6b78c9917de7965b6780f0d2a3a76958a236398be5623d3a10c9",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [
+        "adressa"
+      ],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-fr.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2819,
+      "tamanho": "2.75 KB",
+      "sha256": "18b703aabfc8f829719cad5c8a654f404d1f4d058988e67f03618acefc5dd89b",
+      "texto": true,
+      "linhas": 38,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "requires a thin non-breaking space (U+202F) character before it,\r\n * for example before a colon or exclamation mark.\r\n * There is one of these characters between these quotes: \""
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-gl.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1769,
+      "tamanho": "1.73 KB",
+      "sha256": "9c528090bceebcd0feb9cd2f03b966d9ad058a40ee4f1d0267140a7d7510180e",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-he.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1839,
+      "tamanho": "1.80 KB",
+      "sha256": "601a9dbb8c8a7a85253683bb15809aaf7f84b6c5c1302367727b25eafb184e5e",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-hi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3803,
+      "tamanho": "3.71 KB",
+      "sha256": "132f83977c7be4132e78aefaadb30f2ad769442dfde5f6225b6f93bf5e7da565",
+      "texto": true,
+      "linhas": 36,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-hr.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1781,
+      "tamanho": "1.74 KB",
+      "sha256": "5b2e2704b268a84f11d772d603de42ac2be8ced473b3f91d858272225e68a564",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-hu.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1744,
+      "tamanho": "1.70 KB",
+      "sha256": "3b7ae28a980a65ed9b1d18337161bc49640ba4360520120631a0b07972bc9cdb",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-hy.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2212,
+      "tamanho": "2.16 KB",
+      "sha256": "802e27e6e1469bb9e759d757134459e03e5c984f665cb8bb4847862e5ea00b43",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-id.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2028,
+      "tamanho": "1.98 KB",
+      "sha256": "5c7770da7bd9a7285f0ea8f4c485e5cbeebc06d819b88a1f9eb61bb0c16dafdf",
+      "texto": true,
+      "linhas": 32,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-it.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1847,
+      "tamanho": "1.80 KB",
+      "sha256": "0e3de3c819a193ef8396387d71cb65a991d9cf643640159a7daf0df479280e84",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ja.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2058,
+      "tamanho": "2.01 KB",
+      "sha256": "0c5467259b8d405e87c9be46ee6c31e66d8a52ade73709c947e4c3a22d66dd81",
+      "texto": true,
+      "linhas": 30,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ka.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2911,
+      "tamanho": "2.84 KB",
+      "sha256": "61dca6af8ca79ec49672f4592cd4942fc301c936aa7a6132e3f4beff5dac9ebf",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ko.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1798,
+      "tamanho": "1.76 KB",
+      "sha256": "ab382409b9f7ba67457c74d93cda25fd720d2a8306e052d558c48cdc1c87f3ca",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-lt.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1654,
+      "tamanho": "1.62 KB",
+      "sha256": "e1386ff45f8f7334623ed6e02595d3efc35e84f2cdad9b5378995225a96c99d3",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-lv.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1670,
+      "tamanho": "1.63 KB",
+      "sha256": "a04dfd47b363a584dfc5d9cd4ae74ff45fbbd9ccbefc6e97e97663e8904e7c34",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-mg.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1809,
+      "tamanho": "1.77 KB",
+      "sha256": "2d41d5da3c09695a085ddd58434b60c7a473188b50ceef65d4114ff10cd8b5a5",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-mn.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2213,
+      "tamanho": "2.16 KB",
+      "sha256": "b8fef47b919676a6af4ba6c565affdde96b93db86dd39f87a5da097dc5d90a30",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ms.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1761,
+      "tamanho": "1.72 KB",
+      "sha256": "2090ced408a8eeffe88dcec6816038a5ef3f3c8b5bd47c8e84684a01a7b814f6",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-nb.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2321,
+      "tamanho": "2.27 KB",
+      "sha256": "22b4ae5524a9a0ea08b30e8b79f0caed3bab995f7fbc44b890681a84455d4912",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-nl.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2399,
+      "tamanho": "2.34 KB",
+      "sha256": "c5206b52985df9801c44de69cd6928eed5b1ded9c4a8c921902ac1bd5483299d",
+      "texto": true,
+      "linhas": 35,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-pl.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2668,
+      "tamanho": "2.61 KB",
+      "sha256": "bc3fa067ca44c071b29ccb3c5796ac4cd702fabadd90a63fb5ddb1797e49c837",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-pt.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1916,
+      "tamanho": "1.87 KB",
+      "sha256": "796839450bb4770198501732ea60a34edf543ef4b5a3697fac83eb3da3c2f245",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-pt_br.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2757,
+      "tamanho": "2.69 KB",
+      "sha256": "a6b0164c7eb24695165500f2cd9ad5eab3d3740c9215f65ecfb01a0395874680",
+      "texto": true,
+      "linhas": 39,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ro.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2481,
+      "tamanho": "2.42 KB",
+      "sha256": "e82a5566d9b4ffafba0f7b257adbf0f7689d18497f99694cd0765b9bbf8d6cda",
+      "texto": true,
+      "linhas": 34,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [
+        "au"
+      ],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-ru.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2275,
+      "tamanho": "2.22 KB",
+      "sha256": "507623ee6904005254839ccf68dd08302c20b6f2fc75906f1f0f6e18d2a99f48",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-si.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3459,
+      "tamanho": "3.38 KB",
+      "sha256": "2e906e8c7936312a17ccf8628471456b9e6145ee3530f3ef666b34e0d869bf23",
+      "texto": true,
+      "linhas": 35,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-sk.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1939,
+      "tamanho": "1.89 KB",
+      "sha256": "2821ebac99713f29c5f719e609b1796e28cc75654d20ec737b63171b969ecaf3",
+      "texto": true,
+      "linhas": 31,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [
+        "je"
+      ],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-sl.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2613,
+      "tamanho": "2.55 KB",
+      "sha256": "1ac28c6b44f31e4ec601b0773eae23cfc548b00bca4ee00ef8efec223a17307f",
+      "texto": true,
+      "linhas": 37,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-sr.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2329,
+      "tamanho": "2.27 KB",
+      "sha256": "3dcca529ffe52403a9ca7f98ab8612a61bacd7b84aa1befbfd9612d90ba31c89",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-sr_latn.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1842,
+      "tamanho": "1.80 KB",
+      "sha256": "a8667bbe4d1e9490966df8cb80b641466ec3b3f673bf3e2912b0b36617b05873",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-sv.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1637,
+      "tamanho": "1.60 KB",
+      "sha256": "d1bb3ff4d125bcefc3f4d1f5d56ed59347e6b70290b88bcb593db6c86e7496e1",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-tl.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1749,
+      "tamanho": "1.71 KB",
+      "sha256": "3a1c8f001ce6adee0a69d4c0669169c9ebf838372875686005618f8ca6bf0e3c",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-tr.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1803,
+      "tamanho": "1.76 KB",
+      "sha256": "dce81b3134b3c0cb16eec698c95f76d60c1dde3a19064337ab2a23d365c23360",
+      "texto": true,
+      "linhas": 32,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-uk.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2310,
+      "tamanho": "2.26 KB",
+      "sha256": "7682f7555d79d9a65fe9b86daf7ec2e8ec8298b45ca80648eb5f3133deb9e934",
+      "texto": true,
+      "linhas": 29,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-vi.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1820,
+      "tamanho": "1.78 KB",
+      "sha256": "ff2b1fafb5ce57eec4b0628f7078a97f532952d623c7f2605478ca4fe81fd782",
+      "texto": true,
+      "linhas": 28,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-zh.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1698,
+      "tamanho": "1.66 KB",
+      "sha256": "c558686a6c6947c500a701451aa2c7130a9de55fa43346b5d5f062447f1e8b99",
+      "texto": true,
+      "linhas": 30,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/language/phpmailer.lang-zh_cn.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2369,
+      "tamanho": "2.31 KB",
+      "sha256": "cf051ba753b2fbf2b957477e3959af3182bb94c1e37183d37e4fa43d89b65ef8",
+      "texto": true,
+      "linhas": 37,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/LICENSE",
+      "extensao": "",
+      "tamanho_bytes": 27030,
+      "tamanho": "26.40 KB",
+      "sha256": "510ccb0ba9b0a9bf99343901040a8ec42f92310704203d2068cea815cbbabb8f",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/phpmailer/README.md",
+      "extensao": ".md",
+      "tamanho_bytes": 16634,
+      "tamanho": "16.24 KB",
+      "sha256": "b4a46ef68259094d8ac79422a899cb238df5143a9b67e4fb975c89c3459f0cde",
+      "texto": true,
+      "linhas": 232,
+      "categorias": [
+        "banco_dados",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "UPDATE "
+        ],
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/SECURITY.md",
+      "extensao": ".md",
+      "tamanho_bytes": 7584,
+      "tamanho": "7.41 KB",
+      "sha256": "faa220ce135b1b23fe88128984a696e93bae9a1b1417fef2b3817325be48dd14",
+      "texto": true,
+      "linhas": 38,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/src/DSNConfigurator.php",
+      "extensao": ".php",
+      "tamanho_bytes": 7112,
+      "tamanho": "6.95 KB",
+      "sha256": "e27881b238af2adc3821829a3a638b794ac3ba3507d72bfb39ab5eb2e75dc00e",
+      "texto": true,
+      "linhas": 246,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [
+        "applyConfig",
+        "configure",
+        "configureOptions",
+        "configureSMTP",
+        "mailer",
+        "parseDSN",
+        "parseUrl"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/src/Exception.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1280,
+      "tamanho": "1.25 KB",
+      "sha256": "3d8e877fd7b206ff1a862a038c454b52b768cffc9f1293d06792e6429f71d36a",
+      "texto": true,
+      "linhas": 41,
+      "categorias": [],
+      "funcoes_php": [
+        "errorMessage"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/phpmailer/src/OAuth.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3913,
+      "tamanho": "3.82 KB",
+      "sha256": "7bcdc2460165b44996b11b016b0b1231d49cdf703bf4a7c0067b5e08ec9da4ae",
+      "texto": true,
+      "linhas": 140,
+      "categorias": [],
+      "funcoes_php": [
+        "__construct",
+        "getGrant",
+        "getOauth64",
+        "getToken"
+      ],
+      "includes": [],
+      "tabelas_sql": [
+        "address",
+        "the"
+      ],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/phpmailer/src/OAuthTokenProvider.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1566,
+      "tamanho": "1.53 KB",
+      "sha256": "fc9faa7334d7a353a093bf7763f9f96815ea5b18c587e91e736a08c9f0996411",
+      "texto": true,
+      "linhas": 45,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [
+        "getOauth64"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/src/PHPMailer.php",
+      "extensao": ".php",
+      "tamanho_bytes": 188421,
+      "tamanho": "184.00 KB",
+      "sha256": "555e56d0704a418544835176d53eb5517db68f7911a4d84e43228fa48020bf73",
+      "texto": true,
+      "linhas": 5253,
+      "categorias": [
+        "banco_dados",
+        "email",
+        "pdf"
+      ],
+      "funcoes_php": [
+        "DKIM_Add",
+        "DKIM_BodyC",
+        "DKIM_HeaderC",
+        "DKIM_QP",
+        "DKIM_Sign",
+        "__construct",
+        "__destruct",
+        "_mime_types",
+        "addAddress",
+        "addAnAddress",
+        "addAttachment",
+        "addBCC",
+        "addCC",
+        "addCustomHeader",
+        "addEmbeddedImage",
+        "addOrEnqueueAnAddress",
+        "addReplyTo",
+        "addStringAttachment",
+        "addStringEmbeddedImage",
+        "addrAppend",
+        "addrFormat",
+        "alternativeExists",
+        "attachAll",
+        "attachmentExists",
+        "base64EncodeWrapMB",
+        "cidExists",
+        "clearAddresses",
+        "clearAllRecipients",
+        "clearAttachments",
+        "clearBCCs",
+        "clearCCs",
+        "clearCustomHeader",
+        "clearCustomHeaders",
+        "clearQueuedAddresses",
+        "clearReplyTos",
+        "createBody",
+        "createHeader",
+        "doCallback",
+        "edebug",
+        "encodeFile",
+        "encodeHeader",
+        "encodeQ",
+        "encodeQP",
+        "encodeString",
+        "endBoundary",
+        "fileIsAccessible",
+        "filenameToType",
+        "generateId",
+        "getAllRecipientAddresses",
+        "getAttachments",
+        "getBccAddresses",
+        "getBoundaries",
+        "getBoundary",
+        "getCcAddresses",
+        "getCustomHeaders",
+        "getLE",
+        "getLastMessageID",
+        "getMailMIME",
+        "getOAuth",
+        "getReplyToAddresses",
+        "getSMTPInstance",
+        "getSMTPXclientAttributes",
+        "getSentMIMEMessage",
+        "getSmtpErrorMessage",
+        "getToAddresses",
+        "getTranslations",
+        "has8bitChars",
+        "hasLineLongerThanMax",
+        "hasMultiBytes",
+        "headerLine",
+        "html2text",
+        "idnSupported",
+        "inlineImageExists",
+        "isError",
+        "isHTML",
+        "isMail",
+        "isPermittedPath",
+        "isQmail",
+        "isSMTP",
+        "isSendmail",
+        "isShellSafe",
+        "isValidHost",
+        "lang",
+        "mailPassthru",
+        "mailSend",
+        "mb_pathinfo",
+        "msgHTML",
+        "normalizeBreaks",
+        "parseAddresses",
+        "postSend",
+        "preSend",
+        "punyencodeAddress",
+        "quotedString",
+        "replaceCustomHeader",
+        "rfcDate",
+        "secureHeader",
+        "send",
+        "sendmailSend",
+        "serverHostname",
+        "set",
+        "setBoundaries",
+        "setError",
+        "setFrom",
+        "setLE",
+        "setLanguage",
+        "setMessageType",
+        "setOAuth",
+        "setSMTPInstance",
+        "setSMTPXclientAttribute",
+        "setWordWrap",
+        "sign",
+        "smtpClose",
+        "smtpConnect",
+        "smtpSend",
+        "stripTrailingBreaks",
+        "stripTrailingWSP",
+        "textLine",
+        "utf8CharBoundary",
+        "validateAddress",
+        "validateEncoding",
+        "wrapText"
+      ],
+      "includes": [
+        "include [], e.g. `[::1]`, not just `::1`.\r\n     *\r\n     * @param string $host The host name or IP address to check\r\n     *\r\n     * @return bool\r\n     */\r\n    public static function isValidHost($host)\r\n    {\r\n        //Simple syntax limits\r\n        if (\r\n            empty($host)\r\n            || !is_string($host)\r\n            || strlen($host) > 256\r\n            || !preg_match('",
+        "include a \"",
+        "include a filename property if we have one\r\n                if (!empty($name)) {\r\n                    $mime[] = sprintf(\r\n                        '",
+        "include images, sounds, and just about any other document type.\r\n     * If your filename doesn'",
+        "include images, sounds, and just about any other document type.\r\n     * These differ from '",
+        "include the line break\r\n     * 76 means that lines will be 77 or 78 chars depending on whether\r\n     * the line break format is LF or CRLF; both are valid.\r\n     *\r\n     * @var int\r\n     */\r\n    const STD_LINE_LENGTH = 76;\r\n\r\n    /**\r\n     * Constructor.\r\n     *\r\n     * @param bool $exceptions Should we throw external exceptions?\r\n     */\r\n    public function __construct($exceptions = null)\r\n    {\r\n        if (null !== $exceptions) {\r\n            $this->exceptions = (bool) $exceptions;\r\n        }\r\n        //Pick an appropriate debug output format automatically\r\n        $this->Debugoutput = (strpos(PHP_SAPI, '",
+        "included in the DKIM signature?\r\n            if (in_array(strtolower($header['",
+        "included in the signature *except for* the value of the `b` tag\r\n        //which is appended after calculating the signature\r\n        //https://tools.ietf.org/html/rfc6376#section-3.5\r\n        $dkimSignatureHeader = '",
+        "included.\r\n     *\r\n     * @return array\r\n     */\r\n    public function getBccAddresses()\r\n    {\r\n        return $this->bcc;\r\n    }\r\n\r\n    /**\r\n     * Allows for public read access to '",
+        "included.\r\n     *\r\n     * @return array\r\n     */\r\n    public function getCcAddresses()\r\n    {\r\n        return $this->cc;\r\n    }\r\n\r\n    /**\r\n     * Allows for public read access to '",
+        "included.\r\n     *\r\n     * @return array\r\n     */\r\n    public function getReplyToAddresses()\r\n    {\r\n        return $this->ReplyTo;\r\n    }\r\n\r\n    /**\r\n     * Allows for public read access to '",
+        "included.\r\n     *\r\n     * @return array\r\n     */\r\n    public function getToAddresses()\r\n    {\r\n        return $this->to;\r\n    }\r\n\r\n    /**\r\n     * Allows for public read access to '",
+        "includes folding if needed.\r\n     * See RFC822 definitions for phrase, comment and text positions.\r\n     *\r\n     * @param string $str      The header value to encode\r\n     * @param string $position What context the string will be used in\r\n     *\r\n     * @return string\r\n     */\r\n    public function encodeHeader($str, $position = '",
+        "includes the mail() function) without escapeshellarg,\r\n        //but some hosting providers disable it, creating a security problem that we don'",
+        "require an explicit call to smtpClose().\r\n     * It'",
+        "required PHP functions are not available)\r\n     *   or fails for any reason (e.g. domain contains characters not allowed in an IDN).\r\n     *\r\n     * @see PHPMailer::$CharSet\r\n     *\r\n     * @param string $address The email address to convert\r\n     *\r\n     * @return string The encoded address in ASCII form\r\n     */\r\n    public function punyencodeAddress($address)\r\n    {\r\n        //Verify we have required functions, CharSet, and at-sign.\r\n        $pos = strrpos($address, '",
+        "requires PCRE > 8.0;\r\n     * * `pcre` Use old PCRE implementation;\r\n     * * `php` Use PHP built-in FILTER_VALIDATE_EMAIL;\r\n     * * `html5` Use the pattern given by the HTML5 spec for '",
+        "requires that the server'",
+        "requires the\r\n     * `intl` and `mbstring` PHP extensions.\r\n     *\r\n     * @return bool `true` if required functions for IDN support are present\r\n     */\r\n    public static function idnSupported()\r\n    {\r\n        return function_exists('"
+      ],
+      "tabelas_sql": [
+        "RFC2821",
+        "RFC6376",
+        "a",
+        "address",
+        "an",
+        "and",
+        "email",
+        "functions",
+        "header",
+        "https",
+        "name",
+        "that",
+        "the",
+        "user",
+        "whatever"
+      ],
+      "achados": {
+        "banco_dados": [
+          "SELECT ",
+          "DELETE "
+        ],
+        "email": [
+          "mail(",
+          "SMTP"
+        ],
+        "pdf": [
+          "Output(",
+          "Image("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/src/POP3.php",
+      "extensao": ".php",
+      "tamanho_bytes": 12726,
+      "tamanho": "12.43 KB",
+      "sha256": "a0e9f08d6830f8f8382d7188c39123e8f64ba30a64a9ff4f1a6b9c3d25421ec9",
+      "texto": true,
+      "linhas": 468,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [
+        "authorise",
+        "catchWarning",
+        "checkResponse",
+        "connect",
+        "disconnect",
+        "getErrors",
+        "getResponse",
+        "login",
+        "popBeforeSmtp",
+        "sendString",
+        "setError"
+      ],
+      "includes": [],
+      "tabelas_sql": [
+        "server",
+        "the"
+      ],
+      "achados": {
+        "email": [
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/src/SMTP.php",
+      "extensao": ".php",
+      "tamanho_bytes": 50004,
+      "tamanho": "48.83 KB",
+      "sha256": "a878d796d0eb8285d8846dc0d4fa98f77eefcd5ea213dcd34bae46327bd4ff35",
+      "texto": true,
+      "linhas": 1498,
+      "categorias": [
+        "banco_dados",
+        "email",
+        "pdf"
+      ],
+      "funcoes_php": [
+        "authenticate",
+        "client_send",
+        "close",
+        "connect",
+        "connected",
+        "data",
+        "edebug",
+        "errorHandler",
+        "getDebugLevel",
+        "getDebugOutput",
+        "getError",
+        "getLastReply",
+        "getLastTransactionID",
+        "getSMTPConnection",
+        "getServerExt",
+        "getServerExtList",
+        "getTimeout",
+        "getVerp",
+        "get_lines",
+        "hello",
+        "hmac",
+        "if",
+        "mail",
+        "noop",
+        "parseHelloFields",
+        "quit",
+        "recipient",
+        "recordLastTransactionID",
+        "reset",
+        "sendAndMail",
+        "sendCommand",
+        "sendHello",
+        "setDebugLevel",
+        "setDebugOutput",
+        "setError",
+        "setTimeout",
+        "setVerp",
+        "startTLS",
+        "turn",
+        "verify",
+        "xclient"
+      ],
+      "includes": [],
+      "tabelas_sql": [
+        "RFC",
+        "RFC2821",
+        "Source",
+        "The",
+        "each",
+        "https",
+        "its",
+        "reply",
+        "the"
+      ],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ],
+        "email": [
+          "mail(",
+          "SMTP"
+        ],
+        "pdf": [
+          "Output("
+        ]
+      }
+    },
+    {
+      "arquivo": "lib/phpmailer/VERSION",
+      "extensao": "",
+      "tamanho_bytes": 7,
+      "tamanho": "7.00 B",
+      "sha256": "2e93bcb2c35c8264641c120580e1e5995e69972beb961a261e4ee5b11cf1297d",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "lib/whatsapp.php",
+      "extensao": ".php",
+      "tamanho_bytes": 17012,
+      "tamanho": "16.61 KB",
+      "sha256": "03f58c85e8e18c98190d360e10f90b9f107150ee852b4bdab76e837e51b6c826",
+      "texto": true,
+      "linhas": 429,
+      "categorias": [
+        "whatsapp",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "prepareMessage",
+        "sendViaBaileys",
+        "sendViaEvolutionAPI",
+        "sendViaHocketzap",
+        "sendViaTwilio",
+        "sendViaZAPI",
+        "sendVistoriaPDF",
+        "testConnection",
+        "uploadPDFToPublicServer"
+      ],
+      "includes": [
+        "require_once __DIR__ . '"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "ZAPI",
+          "Twilio",
+          "Hocketzap"
+        ],
+        "seguranca_risco": [
+          "exec("
+        ]
+      }
+    },
+    {
+      "arquivo": "Logooriginal.png",
+      "extensao": ".png",
+      "tamanho_bytes": 8047,
+      "tamanho": "7.86 KB",
+      "sha256": "610bf37e90eeeb9a15c5d05395950cabed01e138415df1a7750e360060f1c9a3",
+      "texto": false,
+      "linhas": 0,
+      "categorias": [],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "logout.php",
+      "extensao": ".php",
+      "tamanho_bytes": 88,
+      "tamanho": "88.00 B",
+      "sha256": "d98ae092dbc7c7ae6034d02f06c31ee4bd2fb788e3d197a517980eace78590a8",
+      "texto": true,
+      "linhas": 7,
+      "categorias": [
+        "login_sessao"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "login_sessao": [
+          "session_start"
+        ]
+      }
+    },
+    {
+      "arquivo": "MANIFESTO_etapa1_senhas_20260707_175613.json",
+      "extensao": ".json",
+      "tamanho_bytes": 3039,
+      "tamanho": "2.97 KB",
+      "sha256": "9ab90af5245cbc3e524cce03ef762eb6c6c1385a69cdfaff94938ecfecc5f9ec",
+      "texto": true,
+      "linhas": 63,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "mapear_sistema_vistoria.py",
+      "extensao": ".py",
+      "tamanho_bytes": 12336,
+      "tamanho": "12.05 KB",
+      "sha256": "b612fa671a929ba45867782820d6bc830a11e42a813edb211e62299b98a3a877",
+      "texto": true,
+      "linhas": 452,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "uploads",
+        "email",
+        "whatsapp",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "login_sessao": [
+          "session_start",
+          "verificarLogin",
+          "verificarAdmin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "senhas": [
+          "password_hash",
+          "password_verify",
+          "senha",
+          "recuperacao_senha",
+          "token_hash"
+        ],
+        "banco_dados": [
+          "mysqli",
+          "getDBConnection",
+          "SELECT ",
+          "INSERT ",
+          "UPDATE ",
+          "DELETE ",
+          "CREATE TABLE"
+        ],
+        "uploads": [
+          "$_FILES",
+          "move_uploaded_file",
+          "UPLOAD_DIR",
+          "fotos",
+          "audios"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "EMAIL_DESTINO",
+          "EMAIL_REMETENTE",
+          "config_smtp"
+        ],
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "ZAPI",
+          "Twilio",
+          "Hocketzap"
+        ],
+        "pdf": [
+          "FPDF",
+          "gerar_pdf",
+          "Output(",
+          "Image("
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "real_escape_string",
+          "prepare(",
+          "bind_param",
+          "eval(",
+          "shell_exec",
+          "exec(",
+          "system("
+        ]
+      }
+    },
+    {
+      "arquivo": "PENDENCIAS.md",
+      "extensao": ".md",
+      "tamanho_bytes": 526,
+      "tamanho": "526.00 B",
+      "sha256": "6bec6ee60e75047b3dcd791bc0b6656dc7335555a9f5d9f1c31df46590127e85",
+      "texto": true,
+      "linhas": 14,
+      "categorias": [
+        "senhas"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha",
+          "recuperacao_senha"
+        ]
+      }
+    },
+    {
+      "arquivo": "README.md",
+      "extensao": ".md",
+      "tamanho_bytes": 5692,
+      "tamanho": "5.56 KB",
+      "sha256": "2bc9313b8f9ab0d846f2d66b7c97aaccf48493e37748f7d8be13ea8d17a6059f",
+      "texto": true,
+      "linhas": 216,
+      "categorias": [
+        "senhas",
+        "banco_dados",
+        "uploads",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "mysqli"
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "EMAIL_DESTINO",
+          "EMAIL_REMETENTE"
+        ]
+      }
+    },
+    {
+      "arquivo": "redefinir_senha.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3766,
+      "tamanho": "3.68 KB",
+      "sha256": "4dea38140a5ea805aa5c50af14cedd553baac94f0d354dd0f30621263d0240d8",
+      "texto": true,
+      "linhas": 83,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "buscarTokenValido"
+      ],
+      "includes": [
+        "require_once '",
+        "required>\n<button class=\"",
+        "required>\n<label>Confirmar nova senha</label>\n<input type=\""
+      ],
+      "tabelas_sql": [
+        "recuperacao_senha",
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "usuario_id"
+        ],
+        "senhas": [
+          "password_hash",
+          "senha",
+          "recuperacao_senha",
+          "token_hash"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "reset_senha.php",
+      "extensao": ".php",
+      "tamanho_bytes": 2206,
+      "tamanho": "2.15 KB",
+      "sha256": "18f3ff987885c37258f524d1c4fb8142121ed1f61735e2b005e0a79c83a048c7",
+      "texto": true,
+      "linhas": 54,
+      "categorias": [
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "senhas": [
+          "password_hash",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "RESUMO_SMTP.md",
+      "extensao": ".md",
+      "tamanho_bytes": 3018,
+      "tamanho": "2.95 KB",
+      "sha256": "b857c772b74016fc73b26535aaff9a8212a7f625610e8a8038aa50bf61c73183",
+      "texto": true,
+      "linhas": 142,
+      "categorias": [
+        "senhas",
+        "email"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "senhas": [
+          "senha"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "config_smtp"
+        ]
+      }
+    },
+    {
+      "arquivo": "SOLUCAO_ERRO_MEMORIA.md",
+      "extensao": ".md",
+      "tamanho_bytes": 7633,
+      "tamanho": "7.45 KB",
+      "sha256": "2b6c580b6b043b703b10d548d71dd1d9c87b2d85830b9f59d335dbf0d48a6345",
+      "texto": true,
+      "linhas": 346,
+      "categorias": [
+        "banco_dados",
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "DELETE "
+        ],
+        "uploads": [
+          "fotos"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/consultar_vistorias.php",
+      "extensao": ".php",
+      "tamanho_bytes": 14643,
+      "tamanho": "14.30 KB",
+      "sha256": "c1069d743d901cbd58f8c8c33d62781868f17f41c91af901146676b5b7525497",
+      "texto": true,
+      "linhas": 441,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/consultar_vistorias_BACKUP.php",
+      "extensao": ".php",
+      "tamanho_bytes": 17189,
+      "tamanho": "16.79 KB",
+      "sha256": "cbd0587e6898cc60aa387ca601482cf914be3906d3fb4c38ed7467627976b3e0",
+      "texto": true,
+      "linhas": 516,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "fecharModal",
+        "verDetalhes"
+      ],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/consultar_vistorias_CORRIGIDO.php",
+      "extensao": ".php",
+      "tamanho_bytes": 14643,
+      "tamanho": "14.30 KB",
+      "sha256": "c1069d743d901cbd58f8c8c33d62781868f17f41c91af901146676b5b7525497",
+      "texto": true,
+      "linhas": 441,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "real_escape_string"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/dashboard.php",
+      "extensao": ".php",
+      "tamanho_bytes": 6296,
+      "tamanho": "6.15 KB",
+      "sha256": "b7478645e55333db604cde605df6f355ae69fb176cda30f0a48ee0192c04d14b",
+      "texto": true,
+      "linhas": 230,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "senhas": [
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/detalhes_vistoria.php",
+      "extensao": ".php",
+      "tamanho_bytes": 14081,
+      "tamanho": "13.75 KB",
+      "sha256": "2d813f0c26774769e9f3e6f754b107f17ef199879a356ffe4cbb95579341b9d1",
+      "texto": true,
+      "linhas": 439,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos",
+          "audios"
+        ],
+        "seguranca_risco": [
+          "$_GET",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/nova_vistoria.php",
+      "extensao": ".php",
+      "tamanho_bytes": 20116,
+      "tamanho": "19.64 KB",
+      "sha256": "c9076d04d84b7d2a144a2a4304e42d48dcc7b576997e0e3ad3b50dafccabe8c1",
+      "texto": true,
+      "linhas": 565,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads"
+      ],
+      "funcoes_php": [
+        "atualizarContadorFotos",
+        "atualizarLegenda",
+        "atualizarPreviewFotos",
+        "removerAudio",
+        "removerFoto"
+      ],
+      "includes": [
+        "require_once '",
+        "required placeholder=\"",
+        "required>\r\n                        <option value=\""
+      ],
+      "tabelas_sql": [
+        "clientes"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT "
+        ],
+        "uploads": [
+          "fotos"
+        ]
+      }
+    },
+    {
+      "arquivo": "supervisor/processar_vistoria.php",
+      "extensao": ".php",
+      "tamanho_bytes": 15715,
+      "tamanho": "15.35 KB",
+      "sha256": "3e35c818545e5e6f20231fb3d8a37eb7252888e75a4628064aa806342e69bfff",
+      "texto": true,
+      "linhas": 422,
+      "categorias": [
+        "login_sessao",
+        "banco_dados",
+        "uploads",
+        "email",
+        "whatsapp",
+        "pdf",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [
+        "enviarEmailPHP",
+        "enviarEmailSMTP",
+        "enviarEmailVistoria",
+        "enviarWhatsAppVistoria",
+        "montarCorpoEmail"
+      ],
+      "includes": [
+        "require_once $getid3_path;\r\n        }\r\n\r\n        if (class_exists('",
+        "require_once '",
+        "require_once __DIR__ . '"
+      ],
+      "tabelas_sql": [
+        "clientes",
+        "usuarios",
+        "vistoria_audios",
+        "vistoria_fotos",
+        "vistorias"
+      ],
+      "achados": {
+        "login_sessao": [
+          "verificarLogin",
+          "usuario_id",
+          "usuario_tipo"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "INSERT "
+        ],
+        "uploads": [
+          "$_FILES",
+          "move_uploaded_file",
+          "UPLOAD_DIR",
+          "fotos",
+          "audios"
+        ],
+        "email": [
+          "mail(",
+          "SMTP",
+          "EMAIL_DESTINO",
+          "EMAIL_REMETENTE",
+          "config_smtp"
+        ],
+        "whatsapp": [
+          "WHATSAPP"
+        ],
+        "pdf": [
+          "FPDF",
+          "Output("
+        ],
+        "seguranca_risco": [
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "teste/Database.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1569,
+      "tamanho": "1.53 KB",
+      "sha256": "072b16869b9a7d84a6f3766d605a3249d26bab366bfc1ea4040121e81d00bc80",
+      "texto": true,
+      "linhas": 44,
+      "categorias": [],
+      "funcoes_php": [
+        "__construct",
+        "getInstance"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "teste/Database_api.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1735,
+      "tamanho": "1.69 KB",
+      "sha256": "e66847d7526e307afd82c8d133821bf8bea2869560dfacfbb4f8ff5cccc10843",
+      "texto": true,
+      "linhas": 45,
+      "categorias": [],
+      "funcoes_php": [
+        "getConnection"
+      ],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {}
+    },
+    {
+      "arquivo": "teste/Mailer.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3339,
+      "tamanho": "3.26 KB",
+      "sha256": "9bed8e45b9ca4e65fa133bdf39e07a63a3980fcd86192d63d05dd64766c4259c",
+      "texto": true,
+      "linhas": 87,
+      "categorias": [
+        "email"
+      ],
+      "funcoes_php": [
+        "__construct",
+        "enviarEmail",
+        "gerarCorpoEmail"
+      ],
+      "includes": [
+        "require_once __DIR__ . '"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "email": [
+          "mail(",
+          "SMTP"
+        ]
+      }
+    },
+    {
+      "arquivo": "teste_conexao.php",
+      "extensao": ".php",
+      "tamanho_bytes": 1964,
+      "tamanho": "1.92 KB",
+      "sha256": "24447743cbdea406fdb500cc1b7b54f7c71aa1922de53351b37983cbb536643f",
+      "texto": true,
+      "linhas": 49,
+      "categorias": [
+        "banco_dados"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '"
+      ],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "mysqli",
+          "getDBConnection",
+          "SELECT "
+        ]
+      }
+    },
+    {
+      "arquivo": "trocar_senha.php",
+      "extensao": ".php",
+      "tamanho_bytes": 3700,
+      "tamanho": "3.61 KB",
+      "sha256": "9941f5714c715e52026bad165d05098633dea56bdafc737fc374312deb2132be",
+      "texto": true,
+      "linhas": 87,
+      "categorias": [
+        "login_sessao",
+        "senhas",
+        "banco_dados",
+        "seguranca_risco"
+      ],
+      "funcoes_php": [],
+      "includes": [
+        "require_once '",
+        "required>\n<button class=\"",
+        "required>\n<label>Confirmar nova senha</label>\n<input type=\"",
+        "required>\n<label>Nova senha</label>\n<input type=\""
+      ],
+      "tabelas_sql": [
+        "usuarios"
+      ],
+      "achados": {
+        "login_sessao": [
+          "session_start",
+          "verificarLogin",
+          "usuario_id"
+        ],
+        "senhas": [
+          "password_hash",
+          "password_verify",
+          "senha"
+        ],
+        "banco_dados": [
+          "getDBConnection",
+          "SELECT ",
+          "UPDATE "
+        ],
+        "seguranca_risco": [
+          "$_POST",
+          "prepare(",
+          "bind_param"
+        ]
+      }
+    },
+    {
+      "arquivo": "user.ini",
+      "extensao": ".ini",
+      "tamanho_bytes": 643,
+      "tamanho": "643.00 B",
+      "sha256": "6a272583887f99e9700760ee63cd52efde8727bc73d4333e7a6d275adede5943",
+      "texto": true,
+      "linhas": 23,
+      "categorias": [
+        "uploads"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "uploads": [
+          "fotos"
+        ]
+      }
+    },
+    {
+      "arquivo": "VISUALIZACAO_COMPARTILHADA.md",
+      "extensao": ".md",
+      "tamanho_bytes": 10128,
+      "tamanho": "9.89 KB",
+      "sha256": "1af29834f15c163aa565e37c41594f198ae09589d26e49010a86f471af73443c",
+      "texto": true,
+      "linhas": 368,
+      "categorias": [
+        "banco_dados"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "banco_dados": [
+          "SELECT "
+        ]
+      }
+    },
+    {
+      "arquivo": "WHATSAPP_RESUMO.md",
+      "extensao": ".md",
+      "tamanho_bytes": 2538,
+      "tamanho": "2.48 KB",
+      "sha256": "06d90ae52df06b3507a38c777bb68e8903b9f18b19e34a819022cf70d8fc3490",
+      "texto": true,
+      "linhas": 104,
+      "categorias": [
+        "whatsapp"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "Twilio"
+        ]
+      }
+    },
+    {
+      "arquivo": "WHATSAPP_SEM_DOCKER.md",
+      "extensao": ".md",
+      "tamanho_bytes": 8189,
+      "tamanho": "8.00 KB",
+      "sha256": "5444cfc500bc5abff6d8f84f13be6271fa7fe492266b97109e8328358d652f42",
+      "texto": true,
+      "linhas": 395,
+      "categorias": [
+        "whatsapp"
+      ],
+      "funcoes_php": [],
+      "includes": [],
+      "tabelas_sql": [],
+      "achados": {
+        "whatsapp": [
+          "WHATSAPP",
+          "Evolution",
+          "ZAPI",
+          "Hocketzap"
+        ]
+      }
+    }
+  ]
+}

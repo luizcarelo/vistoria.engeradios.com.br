@@ -1,0 +1,9 @@
+{
+  "script": "mapear_sistema_vistoria.py",
+  "gerado_em": "2026-07-07 18:38:13",
+  "relatorio_md": "RELATORIO_MAPEAMENTO_SISTEMA.md",
+  "relatorio_json": "RELATORIO_MAPEAMENTO_SISTEMA.json",
+  "total_arquivos": 254,
+  "sha256_md": "b349db730e2922b0de7f77041b3183baa0163b098ed97e8f3ab4fc9e505c35c4",
+  "sha256_json": "9c83dda0751398ce9628e83ac60be3e7c3176534cf1fae4476e8a82f7fd2209f"
+}
